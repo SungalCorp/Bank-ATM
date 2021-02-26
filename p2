@@ -1,0 +1,2313 @@
+Please specify input file name:
+Number of ATMs:
+Simulation time:
++++++insert ATM0(124 223 arr:0 ser:11) |
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] 
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] 
+slot[11] ATM0(124 223 arr:0 ser:11) |
+slot[12] 
+---------
++++++insert ATM1(115 207 arr:0 ser:7) |
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] 
+slot[6] 
+slot[7] ATM1(115 207 arr:0 ser:7) |
+slot[8] 
+slot[9] 
+slot[10] 
+slot[11] ATM0(124 223 arr:0 ser:11) |
+slot[12] 
+---------
++++++insert ATM2(56 104 arr:0 ser:8) |
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] 
+slot[6] 
+slot[7] ATM1(115 207 arr:0 ser:7) |
+slot[8] ATM2(56 104 arr:0 ser:8) |
+slot[9] 
+slot[10] 
+slot[11] ATM0(124 223 arr:0 ser:11) |
+slot[12] 
+---------
++++++insert ATM3(5 8 arr:0 ser:12) |
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] 
+slot[6] 
+slot[7] ATM1(115 207 arr:0 ser:7) |
+slot[8] ATM2(56 104 arr:0 ser:8) |
+slot[9] 
+slot[10] 
+slot[11] ATM0(124 223 arr:0 ser:11) |
+slot[12] ATM3(5 8 arr:0 ser:12) |
+---------
++++++insert ATM4(46 85 arr:0 ser:5) |
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] ATM4(46 85 arr:0 ser:5) |
+slot[6] 
+slot[7] ATM1(115 207 arr:0 ser:7) |
+slot[8] ATM2(56 104 arr:0 ser:8) |
+slot[9] 
+slot[10] 
+slot[11] ATM0(124 223 arr:0 ser:11) |
+slot[12] ATM3(5 8 arr:0 ser:12) |
+---------
++++++insert ATM5(88 160 arr:1 ser:10) |
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] ATM4(46 85 arr:0 ser:5) |
+slot[6] 
+slot[7] ATM1(115 207 arr:0 ser:7) |
+slot[8] ATM2(56 104 arr:0 ser:8) |
+slot[9] 
+slot[10] 
+slot[11] ATM5(88 160 arr:1 ser:10) |ATM0(124 223 arr:0 ser:11) |
+slot[12] ATM3(5 8 arr:0 ser:12) |
+---------
+=== atm0 9 atm1 5 atm2 6 atm3 10 atm4 3 atm5 10 atm6 0 atm7 0 atm8 0 
++++++insert ATM6(44 81 arr:1 ser:7) |
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] ATM4(46 85 arr:0 ser:5) |
+slot[6] 
+slot[7] ATM1(115 207 arr:0 ser:7) |
+slot[8] ATM6(44 81 arr:1 ser:7) |ATM2(56 104 arr:0 ser:8) |
+slot[9] 
+slot[10] 
+slot[11] ATM5(88 160 arr:1 ser:10) |ATM0(124 223 arr:0 ser:11) |
+slot[12] ATM3(5 8 arr:0 ser:12) |
+---------
+=== atm0 9 atm1 5 atm2 6 atm3 10 atm4 3 atm5 10 atm6 7 atm7 0 atm8 0 
+current_slot:2 index:2
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] ATM4(46 85 arr:0 ser:5) |
+slot[6] 
+slot[7] ATM1(115 207 arr:0 ser:7) |
+slot[8] ATM6(44 81 arr:1 ser:7) |ATM2(56 104 arr:0 ser:8) |
+slot[9] 
+slot[10] 
+slot[11] ATM5(88 160 arr:1 ser:10) |ATM0(124 223 arr:0 ser:11) |
+slot[12] ATM3(5 8 arr:0 ser:12) |
+---------
++++++insert ATM7(41 75 arr:2 ser:7) |
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] ATM4(46 85 arr:0 ser:5) |
+slot[6] 
+slot[7] ATM1(115 207 arr:0 ser:7) |
+slot[8] ATM6(44 81 arr:1 ser:7) |ATM2(56 104 arr:0 ser:8) |
+slot[9] ATM7(41 75 arr:2 ser:7) |
+slot[10] 
+slot[11] ATM5(88 160 arr:1 ser:10) |ATM0(124 223 arr:0 ser:11) |
+slot[12] ATM3(5 8 arr:0 ser:12) |
+---------
+=== atm0 8 atm1 4 atm2 5 atm3 9 atm4 2 atm5 9 atm6 6 atm7 7 atm8 0 
+current_slot:3 index:3
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] ATM4(46 85 arr:0 ser:5) |
+slot[6] 
+slot[7] ATM1(115 207 arr:0 ser:7) |
+slot[8] ATM6(44 81 arr:1 ser:7) |ATM2(56 104 arr:0 ser:8) |
+slot[9] ATM7(41 75 arr:2 ser:7) |
+slot[10] 
+slot[11] ATM5(88 160 arr:1 ser:10) |ATM0(124 223 arr:0 ser:11) |
+slot[12] ATM3(5 8 arr:0 ser:12) |
+---------
++++++insert ATM8(179 320 arr:3 ser:10) |
+---------
+slot[0] ATM8(179 320 arr:3 ser:10) |
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] ATM4(46 85 arr:0 ser:5) |
+slot[6] 
+slot[7] ATM1(115 207 arr:0 ser:7) |
+slot[8] ATM6(44 81 arr:1 ser:7) |ATM2(56 104 arr:0 ser:8) |
+slot[9] ATM7(41 75 arr:2 ser:7) |
+slot[10] 
+slot[11] ATM5(88 160 arr:1 ser:10) |ATM0(124 223 arr:0 ser:11) |
+slot[12] ATM3(5 8 arr:0 ser:12) |
+---------
+=== atm0 7 atm1 3 atm2 4 atm3 8 atm4 1 atm5 8 atm6 5 atm7 6 atm8 10 
+current_slot:4 index:4
+---------
+slot[0] ATM8(179 320 arr:3 ser:10) |
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] ATM4(46 85 arr:0 ser:5) |
+slot[6] 
+slot[7] ATM1(115 207 arr:0 ser:7) |
+slot[8] ATM6(44 81 arr:1 ser:7) |ATM2(56 104 arr:0 ser:8) |
+slot[9] ATM7(41 75 arr:2 ser:7) |
+slot[10] 
+slot[11] ATM5(88 160 arr:1 ser:10) |ATM0(124 223 arr:0 ser:11) |
+slot[12] ATM3(5 8 arr:0 ser:12) |
+---------
+=== atm0 6 atm1 2 atm2 3 atm3 7 atm4 10 atm5 7 atm6 4 atm7 5 atm8 9 
+====exit:5 arr:0 serv:5
+ sum wait time:0
+85 PCheckingAccount is done
+current_slot:5 index:5
+---------
+slot[0] ATM8(179 320 arr:3 ser:10) |
+slot[1] 
+slot[2] ATM4(168 304 arr:4 ser:10) |
+slot[3] 
+slot[4] 
+slot[5] 
+slot[6] 
+slot[7] ATM1(115 207 arr:0 ser:7) |
+slot[8] ATM6(44 81 arr:1 ser:7) |ATM2(56 104 arr:0 ser:8) |
+slot[9] ATM7(41 75 arr:2 ser:7) |
+slot[10] 
+slot[11] ATM5(88 160 arr:1 ser:10) |ATM0(124 223 arr:0 ser:11) |
+slot[12] ATM3(5 8 arr:0 ser:12) |
+---------
+=== atm0 5 atm1 12 atm2 2 atm3 6 atm4 9 atm5 6 atm6 3 atm7 4 atm8 8 
+current_slot:6 index:6
+---------
+slot[0] ATM8(179 320 arr:3 ser:10) |
+slot[1] 
+slot[2] ATM4(168 304 arr:4 ser:10) |
+slot[3] 
+slot[4] 
+slot[5] 
+slot[6] 
+slot[7] ATM1(115 207 arr:0 ser:7) (28 53 arr:5 ser:11) |
+slot[8] ATM6(44 81 arr:1 ser:7) |ATM2(56 104 arr:0 ser:8) |
+slot[9] ATM7(41 75 arr:2 ser:7) |
+slot[10] 
+slot[11] ATM5(88 160 arr:1 ser:10) |ATM0(124 223 arr:0 ser:11) |
+slot[12] ATM3(5 8 arr:0 ser:12) |
+---------
+=== atm0 4 atm1 11 atm2 8 atm3 5 atm4 8 atm5 5 atm6 2 atm7 3 atm8 7 
+=== atm0 4 atm1 11 atm2 8 atm3 5 atm4 8 atm5 5 atm6 12 atm7 3 atm8 7 
+====exit:7 arr:0 serv:7
+ sum wait time:0
+207 PSavingsAccount is done
+current_slot:7 index:7
+---------
+slot[0] ATM8(179 320 arr:3 ser:10) |
+slot[1] 
+slot[2] ATM4(168 304 arr:4 ser:10) |
+slot[3] 
+slot[4] 
+slot[5] ATM1(28 53 arr:5 ser:11) |
+slot[6] 
+slot[7] 
+slot[8] ATM6(44 81 arr:1 ser:7) (133 240 arr:6 ser:10) |ATM2(56 104 arr:0 ser:8) (74 135 arr:6 ser:7) |
+slot[9] ATM7(41 75 arr:2 ser:7) |
+slot[10] 
+slot[11] ATM5(88 160 arr:1 ser:10) |ATM0(124 223 arr:0 ser:11) |
+slot[12] ATM3(5 8 arr:0 ser:12) |
+---------
+====exit:8 arr:1 serv:7
+ sum wait time:0
+81 PSavingsAccount is done
+====exit:8 arr:0 serv:8
+ sum wait time:0
+104 PMoneyMarketAccount is done
+current_slot:8 index:8
+---------
+slot[0] ATM8(179 320 arr:3 ser:10) |
+slot[1] 
+slot[2] ATM2(74 135 arr:6 ser:7) |ATM4(168 304 arr:4 ser:10) |
+slot[3] 
+slot[4] 
+slot[5] ATM6(133 240 arr:6 ser:10) |ATM1(28 53 arr:5 ser:11) |
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] ATM7(41 75 arr:2 ser:7) |
+slot[10] 
+slot[11] ATM5(88 160 arr:1 ser:10) |ATM0(124 223 arr:0 ser:11) |
+slot[12] ATM3(5 8 arr:0 ser:12) |
+---------
+=== atm0 2 atm1 9 atm2 6 atm3 3 atm4 6 atm5 3 atm6 10 atm7 12 atm8 5 
+====exit:9 arr:2 serv:7
+ sum wait time:0
+75 BSavingAccount is done
+current_slot:9 index:9
+---------
+slot[0] ATM8(179 320 arr:3 ser:10) |
+slot[1] 
+slot[2] ATM2(74 135 arr:6 ser:7) |ATM4(168 304 arr:4 ser:10) |
+slot[3] 
+slot[4] 
+slot[5] ATM6(133 240 arr:6 ser:10) |ATM1(28 53 arr:5 ser:11) |
+slot[6] 
+slot[7] ATM7(126 228 arr:8 ser:11) |
+slot[8] 
+slot[9] 
+slot[10] 
+slot[11] ATM5(88 160 arr:1 ser:10) |ATM0(124 223 arr:0 ser:11) |
+slot[12] ATM3(5 8 arr:0 ser:12) |
+---------
+=== atm0 11 atm1 8 atm2 5 atm3 2 atm4 5 atm5 2 atm6 9 atm7 11 atm8 4 
+=== atm0 11 atm1 8 atm2 5 atm3 11 atm4 5 atm5 2 atm6 9 atm7 11 atm8 4 
+current_slot:10 index:10
+---------
+slot[0] ATM8(179 320 arr:3 ser:10) |
+slot[1] 
+slot[2] ATM2(74 135 arr:6 ser:7) |ATM4(168 304 arr:4 ser:10) |
+slot[3] 
+slot[4] 
+slot[5] ATM6(133 240 arr:6 ser:10) |ATM1(28 53 arr:5 ser:11) |
+slot[6] 
+slot[7] ATM7(126 228 arr:8 ser:11) |
+slot[8] 
+slot[9] 
+slot[10] 
+slot[11] ATM5(88 160 arr:1 ser:10) |ATM0(124 223 arr:0 ser:11) (122 220 arr:9 ser:10) |
+slot[12] ATM3(5 8 arr:0 ser:12) (132 238 arr:9 ser:9) |
+---------
+=== atm0 10 atm1 7 atm2 4 atm3 10 atm4 4 atm5 9 atm6 8 atm7 10 atm8 3 
+====exit:11 arr:1 serv:10
+ sum wait time:0
+160 BSavingAccount is done
+====exit:11 arr:0 serv:11
+ sum wait time:0
+223 PCheckingAccount is done
+current_slot:11 index:11
+---------
+slot[0] ATM8(179 320 arr:3 ser:10) |
+slot[1] 
+slot[2] ATM2(74 135 arr:6 ser:7) |ATM4(168 304 arr:4 ser:10) |
+slot[3] 
+slot[4] 
+slot[5] ATM6(133 240 arr:6 ser:10) |ATM1(28 53 arr:5 ser:11) |
+slot[6] ATM5(68 124 arr:10 ser:8) |
+slot[7] ATM7(126 228 arr:8 ser:11) |
+slot[8] ATM0(122 220 arr:9 ser:10) |
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] ATM3(5 8 arr:0 ser:12) (132 238 arr:9 ser:9) |
+---------
+=== atm0 9 atm1 6 atm2 3 atm3 9 atm4 3 atm5 8 atm6 7 atm7 9 atm8 7 
+====exit:12 arr:0 serv:12
+ sum wait time:0
+8 BSavingAccount is done
+current_slot:12 index:12
+---------
+slot[0] ATM8(179 320 arr:3 ser:10) (90 163 arr:11 ser:5) |
+slot[1] 
+slot[2] ATM2(74 135 arr:6 ser:7) |ATM4(168 304 arr:4 ser:10) |
+slot[3] 
+slot[4] 
+slot[5] ATM6(133 240 arr:6 ser:10) |ATM1(28 53 arr:5 ser:11) |
+slot[6] ATM5(68 124 arr:10 ser:8) |
+slot[7] ATM7(126 228 arr:8 ser:11) |
+slot[8] ATM3(132 238 arr:9 ser:9) |ATM0(122 220 arr:9 ser:10) |
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] 
+---------
+=== atm0 8 atm1 5 atm2 12 atm3 8 atm4 2 atm5 7 atm6 6 atm7 8 atm8 6 
+=== atm0 8 atm1 5 atm2 12 atm3 8 atm4 12 atm5 7 atm6 6 atm7 8 atm8 6 
+====exit:13 arr:3 serv:10
+ sum wait time:0
+320 PSavingsAccount is done
+current_slot:13 index:0
+---------
+slot[0] 
+slot[1] 
+slot[2] ATM2(74 135 arr:6 ser:7) (88 160 arr:12 ser:10) |ATM4(168 304 arr:4 ser:10) (8 14 arr:12 ser:10) |
+slot[3] 
+slot[4] 
+slot[5] ATM8(90 163 arr:11 ser:5) |ATM6(133 240 arr:6 ser:10) |ATM1(28 53 arr:5 ser:11) |
+slot[6] ATM5(68 124 arr:10 ser:8) |
+slot[7] ATM7(126 228 arr:8 ser:11) |
+slot[8] ATM3(132 238 arr:9 ser:9) |ATM0(122 220 arr:9 ser:10) |
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] 
+---------
+=== atm0 7 atm1 9 atm2 11 atm3 7 atm4 11 atm5 6 atm6 5 atm7 7 atm8 5 
+=== atm0 7 atm1 9 atm2 11 atm3 7 atm4 11 atm5 6 atm6 15 atm7 7 atm8 5 
+current_slot:14 index:1
+---------
+slot[0] 
+slot[1] 
+slot[2] ATM2(74 135 arr:6 ser:7) (88 160 arr:12 ser:10) |ATM4(168 304 arr:4 ser:10) (8 14 arr:12 ser:10) |
+slot[3] 
+slot[4] 
+slot[5] ATM8(90 163 arr:11 ser:5) |ATM6(133 240 arr:6 ser:10) (179 320 arr:13 ser:10) |ATM1(28 53 arr:5 ser:11) (46 84 arr:13 ser:5) |
+slot[6] ATM5(68 124 arr:10 ser:8) |
+slot[7] ATM7(126 228 arr:8 ser:11) |
+slot[8] ATM3(132 238 arr:9 ser:9) |ATM0(122 220 arr:9 ser:10) |
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] 
+---------
+====exit:15 arr:6 serv:7
+ sum wait time:2
+135 BSavingAccount is done
+====exit:15 arr:4 serv:10
+ sum wait time:3
+304 BSavingAccount is done
+current_slot:15 index:2
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] ATM8(90 163 arr:11 ser:5) |ATM6(133 240 arr:6 ser:10) (179 320 arr:13 ser:10) |ATM1(28 53 arr:5 ser:11) (46 84 arr:13 ser:5) |
+slot[6] ATM5(68 124 arr:10 ser:8) |
+slot[7] ATM7(126 228 arr:8 ser:11) |
+slot[8] ATM3(132 238 arr:9 ser:9) |ATM0(122 220 arr:9 ser:10) |
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] ATM4(8 14 arr:12 ser:10) |ATM2(88 160 arr:12 ser:10) |
+---------
+current_slot:16 index:3
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] ATM8(90 163 arr:11 ser:5) |ATM6(133 240 arr:6 ser:10) (179 320 arr:13 ser:10) |ATM1(28 53 arr:5 ser:11) (46 84 arr:13 ser:5) |
+slot[6] ATM5(68 124 arr:10 ser:8) |
+slot[7] ATM7(126 228 arr:8 ser:11) |
+slot[8] ATM3(132 238 arr:9 ser:9) |ATM0(122 220 arr:9 ser:10) |
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] ATM4(8 14 arr:12 ser:10) |ATM2(88 160 arr:12 ser:10) |
+---------
+current_slot:17 index:4
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] ATM8(90 163 arr:11 ser:5) |ATM6(133 240 arr:6 ser:10) (179 320 arr:13 ser:10) |ATM1(28 53 arr:5 ser:11) (46 84 arr:13 ser:5) |
+slot[6] ATM5(68 124 arr:10 ser:8) |
+slot[7] ATM7(126 228 arr:8 ser:11) |
+slot[8] ATM3(132 238 arr:9 ser:9) |ATM0(122 220 arr:9 ser:10) |
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] ATM4(8 14 arr:12 ser:10) |ATM2(88 160 arr:12 ser:10) |
+---------
+=== atm0 3 atm1 5 atm2 7 atm3 3 atm4 7 atm5 2 atm6 11 atm7 3 atm8 12 
+====exit:18 arr:11 serv:5
+ sum wait time:5
+163 PCheckingAccount is done
+====exit:18 arr:6 serv:10
+ sum wait time:7
+240 BSavingAccount is done
+====exit:18 arr:5 serv:11
+ sum wait time:9
+53 BHighVolumeCheckingAccount is done
+current_slot:18 index:5
+---------
+slot[0] 
+slot[1] 
+slot[2] ATM6(179 320 arr:13 ser:10) |
+slot[3] ATM8(57 105 arr:17 ser:11) |
+slot[4] 
+slot[5] 
+slot[6] ATM5(68 124 arr:10 ser:8) |
+slot[7] ATM7(126 228 arr:8 ser:11) |
+slot[8] ATM3(132 238 arr:9 ser:9) |ATM0(122 220 arr:9 ser:10) |
+slot[9] 
+slot[10] ATM1(46 84 arr:13 ser:5) |
+slot[11] 
+slot[12] ATM4(8 14 arr:12 ser:10) |ATM2(88 160 arr:12 ser:10) |
+---------
+=== atm0 2 atm1 4 atm2 6 atm3 2 atm4 6 atm5 10 atm6 10 atm7 2 atm8 11 
+=== atm0 8 atm1 4 atm2 6 atm3 2 atm4 6 atm5 10 atm6 10 atm7 2 atm8 11 
+====exit:19 arr:10 serv:8
+ sum wait time:10
+124 BSavingAccount is done
+current_slot:19 index:6
+---------
+slot[0] 
+slot[1] 
+slot[2] ATM5(100 181 arr:18 ser:9) |ATM6(179 320 arr:13 ser:10) |
+slot[3] ATM8(57 105 arr:17 ser:11) |
+slot[4] 
+slot[5] 
+slot[6] 
+slot[7] ATM7(126 228 arr:8 ser:11) |
+slot[8] ATM3(132 238 arr:9 ser:9) |ATM0(122 220 arr:9 ser:10) (23 43 arr:18 ser:6) |
+slot[9] 
+slot[10] ATM1(46 84 arr:13 ser:5) |
+slot[11] 
+slot[12] ATM4(8 14 arr:12 ser:10) |ATM2(88 160 arr:12 ser:10) |
+---------
+=== atm0 7 atm1 3 atm2 5 atm3 7 atm4 5 atm5 9 atm6 9 atm7 1 atm8 10 
+====exit:20 arr:8 serv:11
+ sum wait time:11
+228 PSavingsAccount is done
+current_slot:20 index:7
+---------
+slot[0] 
+slot[1] 
+slot[2] ATM5(100 181 arr:18 ser:9) |ATM6(179 320 arr:13 ser:10) |
+slot[3] ATM8(57 105 arr:17 ser:11) |
+slot[4] 
+slot[5] 
+slot[6] 
+slot[7] 
+slot[8] ATM3(132 238 arr:9 ser:9) (104 187 arr:19 ser:6) |ATM0(122 220 arr:9 ser:10) (23 43 arr:18 ser:6) |
+slot[9] 
+slot[10] ATM1(46 84 arr:13 ser:5) |
+slot[11] 
+slot[12] ATM4(8 14 arr:12 ser:10) |ATM2(88 160 arr:12 ser:10) |
+---------
++++++insert ATM7(81 149 arr:20 ser:12) |
+---------
+slot[0] 
+slot[1] 
+slot[2] ATM5(100 181 arr:18 ser:9) |ATM6(179 320 arr:13 ser:10) |
+slot[3] ATM8(57 105 arr:17 ser:11) |
+slot[4] 
+slot[5] 
+slot[6] ATM7(81 149 arr:20 ser:12) |
+slot[7] 
+slot[8] ATM3(132 238 arr:9 ser:9) (104 187 arr:19 ser:6) |ATM0(122 220 arr:9 ser:10) (23 43 arr:18 ser:6) |
+slot[9] 
+slot[10] ATM1(46 84 arr:13 ser:5) |
+slot[11] 
+slot[12] ATM4(8 14 arr:12 ser:10) |ATM2(88 160 arr:12 ser:10) |
+---------
+=== atm0 6 atm1 2 atm2 4 atm3 6 atm4 4 atm5 8 atm6 8 atm7 12 atm8 9 
+=== atm0 6 atm1 8 atm2 4 atm3 6 atm4 4 atm5 8 atm6 8 atm7 12 atm8 9 
+====exit:21 arr:9 serv:9
+ sum wait time:14
+238 BSavingAccount is done
+====exit:21 arr:9 serv:10
+ sum wait time:16
+220 PMoneyMarketAccount is done
+current_slot:21 index:8
+---------
+slot[0] 
+slot[1] ATM0(23 43 arr:18 ser:6) |ATM3(104 187 arr:19 ser:6) |
+slot[2] ATM5(100 181 arr:18 ser:9) |ATM6(179 320 arr:13 ser:10) |
+slot[3] ATM8(57 105 arr:17 ser:11) |
+slot[4] 
+slot[5] 
+slot[6] ATM7(81 149 arr:20 ser:12) |
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] ATM1(46 84 arr:13 ser:5) (153 278 arr:20 ser:6) |
+slot[11] 
+slot[12] ATM4(8 14 arr:12 ser:10) |ATM2(88 160 arr:12 ser:10) |
+---------
+current_slot:22 index:9
+---------
+slot[0] 
+slot[1] ATM0(23 43 arr:18 ser:6) |ATM3(104 187 arr:19 ser:6) |
+slot[2] ATM5(100 181 arr:18 ser:9) |ATM6(179 320 arr:13 ser:10) |
+slot[3] ATM8(57 105 arr:17 ser:11) |
+slot[4] 
+slot[5] 
+slot[6] ATM7(81 149 arr:20 ser:12) |
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] ATM1(46 84 arr:13 ser:5) (153 278 arr:20 ser:6) |
+slot[11] 
+slot[12] ATM4(8 14 arr:12 ser:10) |ATM2(88 160 arr:12 ser:10) |
+---------
+====exit:23 arr:13 serv:5
+ sum wait time:21
+84 PSavingsAccount is done
+current_slot:23 index:10
+---------
+slot[0] 
+slot[1] ATM0(23 43 arr:18 ser:6) |ATM3(104 187 arr:19 ser:6) |
+slot[2] ATM5(100 181 arr:18 ser:9) |ATM6(179 320 arr:13 ser:10) |
+slot[3] ATM1(153 278 arr:20 ser:6) |ATM8(57 105 arr:17 ser:11) |
+slot[4] 
+slot[5] 
+slot[6] ATM7(81 149 arr:20 ser:12) |
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] ATM4(8 14 arr:12 ser:10) |ATM2(88 160 arr:12 ser:10) |
+---------
+current_slot:24 index:11
+---------
+slot[0] 
+slot[1] ATM0(23 43 arr:18 ser:6) |ATM3(104 187 arr:19 ser:6) |
+slot[2] ATM5(100 181 arr:18 ser:9) |ATM6(179 320 arr:13 ser:10) |
+slot[3] ATM1(153 278 arr:20 ser:6) |ATM8(57 105 arr:17 ser:11) |
+slot[4] 
+slot[5] 
+slot[6] ATM7(81 149 arr:20 ser:12) |
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] ATM4(8 14 arr:12 ser:10) |ATM2(88 160 arr:12 ser:10) |
+---------
+=== atm0 2 atm1 4 atm2 10 atm3 2 atm4 0 atm5 4 atm6 4 atm7 8 atm8 5 
+=== atm0 2 atm1 4 atm2 10 atm3 2 atm4 9 atm5 4 atm6 4 atm7 8 atm8 5 
+====exit:25 arr:12 serv:10
+ sum wait time:24
+14 PSavingsAccount is done
+====exit:25 arr:12 serv:10
+ sum wait time:27
+160 BSavingAccount is done
+current_slot:25 index:12
+---------
+slot[0] 
+slot[1] ATM0(23 43 arr:18 ser:6) |ATM3(104 187 arr:19 ser:6) |
+slot[2] ATM5(100 181 arr:18 ser:9) |ATM6(179 320 arr:13 ser:10) |
+slot[3] ATM1(153 278 arr:20 ser:6) |ATM8(57 105 arr:17 ser:11) |
+slot[4] 
+slot[5] 
+slot[6] ATM7(81 149 arr:20 ser:12) |
+slot[7] 
+slot[8] ATM4(189 339 arr:24 ser:9) |
+slot[9] ATM2(168 304 arr:24 ser:10) |
+slot[10] 
+slot[11] 
+slot[12] 
+---------
+=== atm0 10 atm1 3 atm2 9 atm3 1 atm4 8 atm5 3 atm6 3 atm7 7 atm8 4 
+current_slot:26 index:0
+---------
+slot[0] 
+slot[1] ATM0(23 43 arr:18 ser:6) (27 50 arr:25 ser:9) |ATM3(104 187 arr:19 ser:6) |
+slot[2] ATM5(100 181 arr:18 ser:9) |ATM6(179 320 arr:13 ser:10) |
+slot[3] ATM1(153 278 arr:20 ser:6) |ATM8(57 105 arr:17 ser:11) |
+slot[4] 
+slot[5] 
+slot[6] ATM7(81 149 arr:20 ser:12) |
+slot[7] 
+slot[8] ATM4(189 339 arr:24 ser:9) |
+slot[9] ATM2(168 304 arr:24 ser:10) |
+slot[10] 
+slot[11] 
+slot[12] 
+---------
+====exit:27 arr:18 serv:6
+ sum wait time:30
+43 BSavingAccount is done
+====exit:27 arr:19 serv:6
+ sum wait time:32
+187 BSavingAccount is done
+current_slot:27 index:1
+---------
+slot[0] 
+slot[1] 
+slot[2] ATM5(100 181 arr:18 ser:9) |ATM6(179 320 arr:13 ser:10) |
+slot[3] ATM1(153 278 arr:20 ser:6) |ATM8(57 105 arr:17 ser:11) |
+slot[4] 
+slot[5] 
+slot[6] ATM7(81 149 arr:20 ser:12) |
+slot[7] 
+slot[8] ATM4(189 339 arr:24 ser:9) |
+slot[9] ATM2(168 304 arr:24 ser:10) |
+slot[10] ATM0(27 50 arr:25 ser:9) |
+slot[11] 
+slot[12] 
+---------
++++++insert ATM3(128 231 arr:27 ser:10) |
+---------
+slot[0] 
+slot[1] 
+slot[2] ATM5(100 181 arr:18 ser:9) |ATM6(179 320 arr:13 ser:10) |
+slot[3] ATM1(153 278 arr:20 ser:6) |ATM8(57 105 arr:17 ser:11) |
+slot[4] 
+slot[5] 
+slot[6] ATM7(81 149 arr:20 ser:12) |
+slot[7] 
+slot[8] ATM4(189 339 arr:24 ser:9) |
+slot[9] ATM2(168 304 arr:24 ser:10) |
+slot[10] ATM0(27 50 arr:25 ser:9) |
+slot[11] ATM3(128 231 arr:27 ser:10) |
+slot[12] 
+---------
+=== atm0 8 atm1 1 atm2 7 atm3 10 atm4 6 atm5 1 atm6 1 atm7 5 atm8 2 
+====exit:28 arr:18 serv:9
+ sum wait time:33
+181 PCheckingAccount is done
+====exit:28 arr:13 serv:10
+ sum wait time:38
+320 PSavingsAccount is done
+current_slot:28 index:2
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] ATM1(153 278 arr:20 ser:6) |ATM8(57 105 arr:17 ser:11) |
+slot[4] 
+slot[5] 
+slot[6] ATM7(81 149 arr:20 ser:12) |
+slot[7] 
+slot[8] ATM4(189 339 arr:24 ser:9) |
+slot[9] ATM2(168 304 arr:24 ser:10) |
+slot[10] ATM0(27 50 arr:25 ser:9) |
+slot[11] ATM3(128 231 arr:27 ser:10) |
+slot[12] 
+---------
+=== atm0 7 atm1 8 atm2 6 atm3 9 atm4 5 atm5 0 atm6 0 atm7 4 atm8 1 
++++++insert ATM5(187 335 arr:28 ser:11) |
+---------
+slot[0] ATM5(187 335 arr:28 ser:11) |
+slot[1] 
+slot[2] 
+slot[3] ATM1(153 278 arr:20 ser:6) (49 91 arr:28 ser:8) |ATM8(57 105 arr:17 ser:11) |
+slot[4] 
+slot[5] 
+slot[6] ATM7(81 149 arr:20 ser:12) |
+slot[7] 
+slot[8] ATM4(189 339 arr:24 ser:9) |
+slot[9] ATM2(168 304 arr:24 ser:10) |
+slot[10] ATM0(27 50 arr:25 ser:9) |
+slot[11] ATM3(128 231 arr:27 ser:10) |
+slot[12] 
+---------
+=== atm0 7 atm1 8 atm2 6 atm3 9 atm4 5 atm5 11 atm6 0 atm7 4 atm8 1 
+====exit:29 arr:20 serv:6
+ sum wait time:41
+278 BSavingAccount is done
+====exit:29 arr:17 serv:11
+ sum wait time:42
+105 PCheckingAccount is done
+current_slot:29 index:3
+---------
+slot[0] ATM5(187 335 arr:28 ser:11) |
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] 
+slot[6] ATM7(81 149 arr:20 ser:12) |
+slot[7] 
+slot[8] ATM4(189 339 arr:24 ser:9) |
+slot[9] ATM2(168 304 arr:24 ser:10) |
+slot[10] ATM0(27 50 arr:25 ser:9) |
+slot[11] ATM1(49 91 arr:28 ser:8) |ATM3(128 231 arr:27 ser:10) |
+slot[12] 
+---------
++++++insert ATM6(155 282 arr:29 ser:6) |
+---------
+slot[0] ATM5(187 335 arr:28 ser:11) |
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] 
+slot[6] ATM7(81 149 arr:20 ser:12) |
+slot[7] 
+slot[8] ATM4(189 339 arr:24 ser:9) |
+slot[9] ATM6(155 282 arr:29 ser:6) |ATM2(168 304 arr:24 ser:10) |
+slot[10] ATM0(27 50 arr:25 ser:9) |
+slot[11] ATM1(49 91 arr:28 ser:8) |ATM3(128 231 arr:27 ser:10) |
+slot[12] 
+---------
+=== atm0 6 atm1 7 atm2 5 atm3 8 atm4 4 atm5 10 atm6 6 atm7 3 atm8 0 
++++++insert ATM8(86 158 arr:29 ser:10) |
+---------
+slot[0] ATM8(86 158 arr:29 ser:10) |ATM5(187 335 arr:28 ser:11) |
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] 
+slot[6] ATM7(81 149 arr:20 ser:12) |
+slot[7] 
+slot[8] ATM4(189 339 arr:24 ser:9) |
+slot[9] ATM6(155 282 arr:29 ser:6) |ATM2(168 304 arr:24 ser:10) |
+slot[10] ATM0(27 50 arr:25 ser:9) |
+slot[11] ATM1(49 91 arr:28 ser:8) |ATM3(128 231 arr:27 ser:10) |
+slot[12] 
+---------
+=== atm0 6 atm1 7 atm2 5 atm3 8 atm4 4 atm5 10 atm6 6 atm7 3 atm8 10 
+current_slot:30 index:4
+---------
+slot[0] ATM8(86 158 arr:29 ser:10) |ATM5(187 335 arr:28 ser:11) |
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] 
+slot[6] ATM7(81 149 arr:20 ser:12) |
+slot[7] 
+slot[8] ATM4(189 339 arr:24 ser:9) |
+slot[9] ATM6(155 282 arr:29 ser:6) |ATM2(168 304 arr:24 ser:10) |
+slot[10] ATM0(27 50 arr:25 ser:9) |
+slot[11] ATM1(49 91 arr:28 ser:8) |ATM3(128 231 arr:27 ser:10) |
+slot[12] 
+---------
+=== atm0 5 atm1 6 atm2 4 atm3 7 atm4 3 atm5 9 atm6 5 atm7 11 atm8 9 
+current_slot:31 index:5
+---------
+slot[0] ATM8(86 158 arr:29 ser:10) |ATM5(187 335 arr:28 ser:11) |
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] 
+slot[6] ATM7(81 149 arr:20 ser:12) (157 286 arr:30 ser:9) |
+slot[7] 
+slot[8] ATM4(189 339 arr:24 ser:9) |
+slot[9] ATM6(155 282 arr:29 ser:6) |ATM2(168 304 arr:24 ser:10) |
+slot[10] ATM0(27 50 arr:25 ser:9) |
+slot[11] ATM1(49 91 arr:28 ser:8) |ATM3(128 231 arr:27 ser:10) |
+slot[12] 
+---------
+=== atm0 4 atm1 5 atm2 3 atm3 6 atm4 10 atm5 8 atm6 4 atm7 10 atm8 8 
+====exit:32 arr:20 serv:12
+ sum wait time:42
+149 PSavingsAccount is done
+current_slot:32 index:6
+---------
+slot[0] ATM8(86 158 arr:29 ser:10) |ATM5(187 335 arr:28 ser:11) |
+slot[1] 
+slot[2] ATM7(157 286 arr:30 ser:9) |
+slot[3] 
+slot[4] 
+slot[5] 
+slot[6] 
+slot[7] 
+slot[8] ATM4(189 339 arr:24 ser:9) (33 62 arr:31 ser:8) |
+slot[9] ATM6(155 282 arr:29 ser:6) |ATM2(168 304 arr:24 ser:10) |
+slot[10] ATM0(27 50 arr:25 ser:9) |
+slot[11] ATM1(49 91 arr:28 ser:8) |ATM3(128 231 arr:27 ser:10) |
+slot[12] 
+---------
+=== atm0 3 atm1 4 atm2 9 atm3 5 atm4 9 atm5 7 atm6 3 atm7 9 atm8 7 
+current_slot:33 index:7
+---------
+slot[0] ATM8(86 158 arr:29 ser:10) |ATM5(187 335 arr:28 ser:11) |
+slot[1] 
+slot[2] ATM7(157 286 arr:30 ser:9) |
+slot[3] 
+slot[4] 
+slot[5] 
+slot[6] 
+slot[7] 
+slot[8] ATM4(189 339 arr:24 ser:9) (33 62 arr:31 ser:8) |
+slot[9] ATM6(155 282 arr:29 ser:6) |ATM2(168 304 arr:24 ser:10) (3 5 arr:32 ser:7) |
+slot[10] ATM0(27 50 arr:25 ser:9) |
+slot[11] ATM1(49 91 arr:28 ser:8) |ATM3(128 231 arr:27 ser:10) |
+slot[12] 
+---------
+=== atm0 9 atm1 3 atm2 8 atm3 4 atm4 8 atm5 6 atm6 2 atm7 8 atm8 6 
+=== atm0 9 atm1 3 atm2 8 atm3 4 atm4 8 atm5 6 atm6 11 atm7 8 atm8 6 
+====exit:34 arr:24 serv:9
+ sum wait time:43
+339 PCertificatesfDeposits is done
+current_slot:34 index:8
+---------
+slot[0] ATM8(86 158 arr:29 ser:10) |ATM5(187 335 arr:28 ser:11) |
+slot[1] 
+slot[2] ATM7(157 286 arr:30 ser:9) |
+slot[3] ATM4(33 62 arr:31 ser:8) |
+slot[4] 
+slot[5] 
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] ATM6(155 282 arr:29 ser:6) (177 317 arr:33 ser:9) |ATM2(168 304 arr:24 ser:10) (3 5 arr:32 ser:7) |
+slot[10] ATM0(27 50 arr:25 ser:9) (64 118 arr:33 ser:7) |
+slot[11] ATM1(49 91 arr:28 ser:8) |ATM3(128 231 arr:27 ser:10) |
+slot[12] 
+---------
+=== atm0 8 atm1 7 atm2 7 atm3 3 atm4 7 atm5 5 atm6 10 atm7 7 atm8 5 
+====exit:35 arr:29 serv:6
+ sum wait time:43
+282 BSavingAccount is done
+====exit:35 arr:24 serv:10
+ sum wait time:44
+304 BSavingAccount is done
+current_slot:35 index:9
+---------
+slot[0] ATM8(86 158 arr:29 ser:10) |ATM5(187 335 arr:28 ser:11) |
+slot[1] 
+slot[2] ATM7(157 286 arr:30 ser:9) |
+slot[3] ATM2(3 5 arr:32 ser:7) |ATM4(33 62 arr:31 ser:8) |
+slot[4] 
+slot[5] ATM6(177 317 arr:33 ser:9) |
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] ATM0(27 50 arr:25 ser:9) (64 118 arr:33 ser:7) |
+slot[11] ATM1(49 91 arr:28 ser:8) (71 130 arr:34 ser:5) |ATM3(128 231 arr:27 ser:10) |
+slot[12] 
+---------
+=== atm0 7 atm1 6 atm2 6 atm3 12 atm4 6 atm5 4 atm6 9 atm7 6 atm8 4 
+====exit:36 arr:25 serv:9
+ sum wait time:46
+50 BSavingAccount is done
+current_slot:36 index:10
+---------
+slot[0] ATM8(86 158 arr:29 ser:10) |ATM5(187 335 arr:28 ser:11) |
+slot[1] 
+slot[2] ATM7(157 286 arr:30 ser:9) |
+slot[3] ATM2(3 5 arr:32 ser:7) |ATM4(33 62 arr:31 ser:8) |
+slot[4] ATM0(64 118 arr:33 ser:7) |
+slot[5] ATM6(177 317 arr:33 ser:9) |
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] 
+slot[11] ATM1(49 91 arr:28 ser:8) (71 130 arr:34 ser:5) |ATM3(128 231 arr:27 ser:10) (107 193 arr:35 ser:10) |
+slot[12] 
+---------
+====exit:37 arr:28 serv:8
+ sum wait time:47
+91 BSavingAccount is done
+====exit:37 arr:27 serv:10
+ sum wait time:47
+231 PSavingsAccount is done
+current_slot:37 index:11
+---------
+slot[0] ATM8(86 158 arr:29 ser:10) |ATM5(187 335 arr:28 ser:11) |
+slot[1] 
+slot[2] ATM7(157 286 arr:30 ser:9) |
+slot[3] ATM1(71 130 arr:34 ser:5) |ATM2(3 5 arr:32 ser:7) |ATM4(33 62 arr:31 ser:8) |
+slot[4] ATM0(64 118 arr:33 ser:7) |
+slot[5] ATM6(177 317 arr:33 ser:9) |
+slot[6] 
+slot[7] 
+slot[8] ATM3(107 193 arr:35 ser:10) |
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] 
+---------
+=== atm0 5 atm1 4 atm2 4 atm3 10 atm4 4 atm5 10 atm6 7 atm7 4 atm8 2 
+current_slot:38 index:12
+---------
+slot[0] ATM8(86 158 arr:29 ser:10) |ATM5(187 335 arr:28 ser:11) (125 226 arr:37 ser:8) |
+slot[1] 
+slot[2] ATM7(157 286 arr:30 ser:9) |
+slot[3] ATM1(71 130 arr:34 ser:5) |ATM2(3 5 arr:32 ser:7) |ATM4(33 62 arr:31 ser:8) |
+slot[4] ATM0(64 118 arr:33 ser:7) |
+slot[5] ATM6(177 317 arr:33 ser:9) |
+slot[6] 
+slot[7] 
+slot[8] ATM3(107 193 arr:35 ser:10) |
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] 
+---------
+=== atm0 4 atm1 3 atm2 3 atm3 9 atm4 3 atm5 9 atm6 6 atm7 3 atm8 7 
+=== atm0 4 atm1 9 atm2 3 atm3 9 atm4 3 atm5 9 atm6 6 atm7 3 atm8 7 
+====exit:39 arr:29 serv:10
+ sum wait time:47
+158 BHighVolumeCheckingAccount is done
+====exit:39 arr:28 serv:11
+ sum wait time:47
+335 BSavingAccount is done
+current_slot:39 index:0
+---------
+slot[0] 
+slot[1] 
+slot[2] ATM7(157 286 arr:30 ser:9) |
+slot[3] ATM1(71 130 arr:34 ser:5) (50 93 arr:38 ser:6) |ATM2(3 5 arr:32 ser:7) |ATM4(33 62 arr:31 ser:8) |
+slot[4] ATM0(64 118 arr:33 ser:7) |
+slot[5] ATM6(177 317 arr:33 ser:9) |
+slot[6] ATM8(143 257 arr:38 ser:6) |
+slot[7] 
+slot[8] ATM5(125 226 arr:37 ser:8) |ATM3(107 193 arr:35 ser:10) |
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] 
+---------
+current_slot:40 index:1
+---------
+slot[0] 
+slot[1] 
+slot[2] ATM7(157 286 arr:30 ser:9) |
+slot[3] ATM1(71 130 arr:34 ser:5) (50 93 arr:38 ser:6) |ATM2(3 5 arr:32 ser:7) |ATM4(33 62 arr:31 ser:8) |
+slot[4] ATM0(64 118 arr:33 ser:7) |
+slot[5] ATM6(177 317 arr:33 ser:9) |
+slot[6] ATM8(143 257 arr:38 ser:6) |
+slot[7] 
+slot[8] ATM5(125 226 arr:37 ser:8) |ATM3(107 193 arr:35 ser:10) |
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] 
+---------
+=== atm0 2 atm1 7 atm2 11 atm3 7 atm4 1 atm5 7 atm6 4 atm7 1 atm8 5 
+=== atm0 2 atm1 7 atm2 11 atm3 7 atm4 10 atm5 7 atm6 4 atm7 1 atm8 5 
+====exit:41 arr:30 serv:9
+ sum wait time:49
+286 PMoneyMarketAccount is done
+current_slot:41 index:2
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] ATM1(71 130 arr:34 ser:5) (50 93 arr:38 ser:6) |ATM2(3 5 arr:32 ser:7) (122 220 arr:40 ser:10) |ATM4(33 62 arr:31 ser:8) (40 73 arr:40 ser:9) |
+slot[4] ATM0(64 118 arr:33 ser:7) |
+slot[5] ATM6(177 317 arr:33 ser:9) |
+slot[6] ATM8(143 257 arr:38 ser:6) |
+slot[7] 
+slot[8] ATM5(125 226 arr:37 ser:8) |ATM3(107 193 arr:35 ser:10) |
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] 
+---------
++++++insert ATM7(44 81 arr:41 ser:7) |
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] ATM1(71 130 arr:34 ser:5) (50 93 arr:38 ser:6) |ATM2(3 5 arr:32 ser:7) (122 220 arr:40 ser:10) |ATM4(33 62 arr:31 ser:8) (40 73 arr:40 ser:9) |
+slot[4] ATM0(64 118 arr:33 ser:7) |
+slot[5] ATM6(177 317 arr:33 ser:9) |
+slot[6] ATM8(143 257 arr:38 ser:6) |
+slot[7] 
+slot[8] ATM5(125 226 arr:37 ser:8) |ATM3(107 193 arr:35 ser:10) |
+slot[9] ATM7(44 81 arr:41 ser:7) |
+slot[10] 
+slot[11] 
+slot[12] 
+---------
+=== atm0 1 atm1 6 atm2 10 atm3 6 atm4 9 atm5 6 atm6 3 atm7 7 atm8 4 
+=== atm0 6 atm1 6 atm2 10 atm3 6 atm4 9 atm5 6 atm6 3 atm7 7 atm8 4 
+====exit:42 arr:34 serv:5
+ sum wait time:52
+130 PCertificatesfDeposits is done
+====exit:42 arr:32 serv:7
+ sum wait time:55
+5 PSavingsAccount is done
+====exit:42 arr:31 serv:8
+ sum wait time:58
+62 PCertificatesfDeposits is done
+current_slot:42 index:3
+---------
+slot[0] ATM2(122 220 arr:40 ser:10) |
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] ATM0(64 118 arr:33 ser:7) (46 85 arr:41 ser:5) |
+slot[5] ATM6(177 317 arr:33 ser:9) |
+slot[6] ATM8(143 257 arr:38 ser:6) |
+slot[7] 
+slot[8] ATM5(125 226 arr:37 ser:8) |ATM3(107 193 arr:35 ser:10) |
+slot[9] ATM1(50 93 arr:38 ser:6) |ATM7(44 81 arr:41 ser:7) |
+slot[10] 
+slot[11] 
+slot[12] ATM4(40 73 arr:40 ser:9) |
+---------
+=== atm0 5 atm1 5 atm2 9 atm3 5 atm4 8 atm5 5 atm6 8 atm7 6 atm8 3 
+=== atm0 5 atm1 5 atm2 9 atm3 5 atm4 8 atm5 5 atm6 8 atm7 6 atm8 8 
+====exit:43 arr:33 serv:7
+ sum wait time:61
+118 PCertificatesfDeposits is done
+current_slot:43 index:4
+---------
+slot[0] ATM2(122 220 arr:40 ser:10) |
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] ATM6(177 317 arr:33 ser:9) (23 42 arr:42 ser:6) |
+slot[6] ATM8(143 257 arr:38 ser:6) (190 341 arr:42 ser:5) |
+slot[7] 
+slot[8] ATM5(125 226 arr:37 ser:8) |ATM3(107 193 arr:35 ser:10) |
+slot[9] ATM0(46 85 arr:41 ser:5) |ATM1(50 93 arr:38 ser:6) |ATM7(44 81 arr:41 ser:7) |
+slot[10] 
+slot[11] 
+slot[12] ATM4(40 73 arr:40 ser:9) |
+---------
+=== atm0 10 atm1 4 atm2 8 atm3 4 atm4 7 atm5 4 atm6 7 atm7 5 atm8 7 
+====exit:44 arr:33 serv:9
+ sum wait time:63
+317 BForeignCurrencyAccount is done
+current_slot:44 index:5
+---------
+slot[0] ATM2(122 220 arr:40 ser:10) |
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] 
+slot[6] ATM8(143 257 arr:38 ser:6) (190 341 arr:42 ser:5) |
+slot[7] 
+slot[8] ATM5(125 226 arr:37 ser:8) |ATM3(107 193 arr:35 ser:10) |
+slot[9] ATM0(46 85 arr:41 ser:5) (155 281 arr:43 ser:6) |ATM1(50 93 arr:38 ser:6) |ATM7(44 81 arr:41 ser:7) |
+slot[10] 
+slot[11] ATM6(23 42 arr:42 ser:6) |
+slot[12] ATM4(40 73 arr:40 ser:9) |
+---------
+=== atm0 9 atm1 13 atm2 7 atm3 3 atm4 6 atm5 3 atm6 6 atm7 4 atm8 6 
+=== atm0 9 atm1 13 atm2 7 atm3 8 atm4 6 atm5 3 atm6 6 atm7 4 atm8 6 
+====exit:45 arr:38 serv:6
+ sum wait time:64
+257 PSavingsAccount is done
+current_slot:45 index:6
+---------
+slot[0] ATM2(122 220 arr:40 ser:10) |
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] 
+slot[6] 
+slot[7] 
+slot[8] ATM5(125 226 arr:37 ser:8) |ATM3(107 193 arr:35 ser:10) (90 163 arr:44 ser:5) |
+slot[9] ATM0(46 85 arr:41 ser:5) (155 281 arr:43 ser:6) |ATM1(50 93 arr:38 ser:6) (128 231 arr:44 ser:10) |ATM7(44 81 arr:41 ser:7) |
+slot[10] 
+slot[11] ATM8(190 341 arr:42 ser:5) |ATM6(23 42 arr:42 ser:6) |
+slot[12] ATM4(40 73 arr:40 ser:9) |
+---------
+=== atm0 8 atm1 12 atm2 6 atm3 7 atm4 5 atm5 11 atm6 5 atm7 3 atm8 5 
+=== atm0 8 atm1 12 atm2 6 atm3 7 atm4 5 atm5 11 atm6 5 atm7 12 atm8 5 
+current_slot:46 index:7
+---------
+slot[0] ATM2(122 220 arr:40 ser:10) |
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] 
+slot[6] 
+slot[7] 
+slot[8] ATM5(125 226 arr:37 ser:8) (100 181 arr:45 ser:9) |ATM3(107 193 arr:35 ser:10) (90 163 arr:44 ser:5) |
+slot[9] ATM0(46 85 arr:41 ser:5) (155 281 arr:43 ser:6) |ATM1(50 93 arr:38 ser:6) (128 231 arr:44 ser:10) |ATM7(44 81 arr:41 ser:7) (43 78 arr:45 ser:9) |
+slot[10] 
+slot[11] ATM8(190 341 arr:42 ser:5) |ATM6(23 42 arr:42 ser:6) |
+slot[12] ATM4(40 73 arr:40 ser:9) |
+---------
+=== atm0 7 atm1 11 atm2 5 atm3 6 atm4 10 atm5 10 atm6 4 atm7 11 atm8 4 
+====exit:47 arr:37 serv:8
+ sum wait time:66
+226 BSavingAccount is done
+====exit:47 arr:35 serv:10
+ sum wait time:68
+193 BSavingAccount is done
+current_slot:47 index:8
+---------
+slot[0] ATM3(90 163 arr:44 ser:5) |ATM2(122 220 arr:40 ser:10) |
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] ATM5(100 181 arr:45 ser:9) |
+slot[5] 
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] ATM0(46 85 arr:41 ser:5) (155 281 arr:43 ser:6) |ATM1(50 93 arr:38 ser:6) (128 231 arr:44 ser:10) |ATM7(44 81 arr:41 ser:7) (43 78 arr:45 ser:9) |
+slot[10] 
+slot[11] ATM8(190 341 arr:42 ser:5) |ATM6(23 42 arr:42 ser:6) |
+slot[12] ATM4(40 73 arr:40 ser:9) (21 39 arr:46 ser:6) |
+---------
+=== atm0 6 atm1 10 atm2 4 atm3 5 atm4 9 atm5 9 atm6 10 atm7 10 atm8 3 
+====exit:48 arr:41 serv:5
+ sum wait time:70
+85 PCheckingAccount is done
+====exit:48 arr:38 serv:6
+ sum wait time:74
+93 PCheckingAccount is done
+====exit:48 arr:41 serv:7
+ sum wait time:74
+81 PSavingsAccount is done
+current_slot:48 index:9
+---------
+slot[0] ATM3(90 163 arr:44 ser:5) |ATM2(122 220 arr:40 ser:10) |
+slot[1] 
+slot[2] ATM0(155 281 arr:43 ser:6) |
+slot[3] 
+slot[4] ATM5(100 181 arr:45 ser:9) |
+slot[5] ATM7(43 78 arr:45 ser:9) |
+slot[6] ATM1(128 231 arr:44 ser:10) |
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] 
+slot[11] ATM8(190 341 arr:42 ser:5) |ATM6(23 42 arr:42 ser:6) (64 117 arr:47 ser:7) |
+slot[12] ATM4(40 73 arr:40 ser:9) (21 39 arr:46 ser:6) |
+---------
+=== atm0 5 atm1 9 atm2 3 atm3 4 atm4 8 atm5 8 atm6 9 atm7 9 atm8 14 
+current_slot:49 index:10
+---------
+slot[0] ATM3(90 163 arr:44 ser:5) |ATM2(122 220 arr:40 ser:10) |
+slot[1] 
+slot[2] ATM0(155 281 arr:43 ser:6) |
+slot[3] 
+slot[4] ATM5(100 181 arr:45 ser:9) |
+slot[5] ATM7(43 78 arr:45 ser:9) |
+slot[6] ATM1(128 231 arr:44 ser:10) |
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] 
+slot[11] ATM8(190 341 arr:42 ser:5) (52 96 arr:48 ser:12) |ATM6(23 42 arr:42 ser:6) (64 117 arr:47 ser:7) |
+slot[12] ATM4(40 73 arr:40 ser:9) (21 39 arr:46 ser:6) |
+---------
+====exit:50 arr:42 serv:5
+ sum wait time:77
+341 BSavingAccount is done
+====exit:50 arr:42 serv:6
+ sum wait time:79
+42 PSavingsAccount is done
+current_slot:50 index:11
+---------
+slot[0] ATM3(90 163 arr:44 ser:5) |ATM2(122 220 arr:40 ser:10) |
+slot[1] 
+slot[2] ATM0(155 281 arr:43 ser:6) |
+slot[3] 
+slot[4] ATM5(100 181 arr:45 ser:9) |
+slot[5] ATM6(64 117 arr:47 ser:7) |ATM7(43 78 arr:45 ser:9) |
+slot[6] ATM1(128 231 arr:44 ser:10) |
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] ATM8(52 96 arr:48 ser:12) |
+slot[11] 
+slot[12] ATM4(40 73 arr:40 ser:9) (21 39 arr:46 ser:6) |
+---------
+=== atm0 3 atm1 7 atm2 9 atm3 2 atm4 6 atm5 6 atm6 7 atm7 7 atm8 12 
+====exit:51 arr:40 serv:9
+ sum wait time:81
+73 PCertificatesfDeposits is done
+current_slot:51 index:12
+---------
+slot[0] ATM3(90 163 arr:44 ser:5) |ATM2(122 220 arr:40 ser:10) (178 318 arr:50 ser:8) |
+slot[1] 
+slot[2] ATM0(155 281 arr:43 ser:6) |
+slot[3] 
+slot[4] ATM5(100 181 arr:45 ser:9) |
+slot[5] ATM4(21 39 arr:46 ser:6) |ATM6(64 117 arr:47 ser:7) |ATM7(43 78 arr:45 ser:9) |
+slot[6] ATM1(128 231 arr:44 ser:10) |
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] ATM8(52 96 arr:48 ser:12) |
+slot[11] 
+slot[12] 
+---------
+=== atm0 2 atm1 6 atm2 8 atm3 12 atm4 5 atm5 5 atm6 6 atm7 6 atm8 11 
+=== atm0 8 atm1 6 atm2 8 atm3 12 atm4 5 atm5 5 atm6 6 atm7 6 atm8 11 
+====exit:52 arr:44 serv:5
+ sum wait time:84
+163 PCheckingAccount is done
+====exit:52 arr:40 serv:10
+ sum wait time:86
+220 PMoneyMarketAccount is done
+current_slot:52 index:0
+---------
+slot[0] 
+slot[1] 
+slot[2] ATM0(155 281 arr:43 ser:6) (172 310 arr:51 ser:6) |
+slot[3] 
+slot[4] ATM5(100 181 arr:45 ser:9) |
+slot[5] ATM4(21 39 arr:46 ser:6) |ATM6(64 117 arr:47 ser:7) |ATM7(43 78 arr:45 ser:9) |
+slot[6] ATM1(128 231 arr:44 ser:10) |
+slot[7] 
+slot[8] ATM2(178 318 arr:50 ser:8) |
+slot[9] 
+slot[10] ATM8(52 96 arr:48 ser:12) |
+slot[11] ATM3(9 16 arr:51 ser:11) |
+slot[12] 
+---------
+=== atm0 7 atm1 5 atm2 7 atm3 11 atm4 13 atm5 4 atm6 5 atm7 5 atm8 10 
+current_slot:53 index:1
+---------
+slot[0] 
+slot[1] 
+slot[2] ATM0(155 281 arr:43 ser:6) (172 310 arr:51 ser:6) |
+slot[3] 
+slot[4] ATM5(100 181 arr:45 ser:9) |
+slot[5] ATM4(21 39 arr:46 ser:6) (20 37 arr:52 ser:9) |ATM6(64 117 arr:47 ser:7) |ATM7(43 78 arr:45 ser:9) |
+slot[6] ATM1(128 231 arr:44 ser:10) |
+slot[7] 
+slot[8] ATM2(178 318 arr:50 ser:8) |
+slot[9] 
+slot[10] ATM8(52 96 arr:48 ser:12) |
+slot[11] ATM3(9 16 arr:51 ser:11) |
+slot[12] 
+---------
+=== atm0 6 atm1 4 atm2 6 atm3 10 atm4 12 atm5 9 atm6 4 atm7 4 atm8 9 
+====exit:54 arr:43 serv:6
+ sum wait time:91
+281 PSavingsAccount is done
+current_slot:54 index:2
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] ATM5(100 181 arr:45 ser:9) (24 44 arr:53 ser:6) |
+slot[5] ATM4(21 39 arr:46 ser:6) (20 37 arr:52 ser:9) |ATM6(64 117 arr:47 ser:7) |ATM7(43 78 arr:45 ser:9) |
+slot[6] ATM1(128 231 arr:44 ser:10) |
+slot[7] 
+slot[8] ATM0(172 310 arr:51 ser:6) |ATM2(178 318 arr:50 ser:8) |
+slot[9] 
+slot[10] ATM8(52 96 arr:48 ser:12) |
+slot[11] ATM3(9 16 arr:51 ser:11) |
+slot[12] 
+---------
+=== atm0 5 atm1 12 atm2 5 atm3 9 atm4 11 atm5 8 atm6 3 atm7 3 atm8 8 
+current_slot:55 index:3
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] ATM5(100 181 arr:45 ser:9) (24 44 arr:53 ser:6) |
+slot[5] ATM4(21 39 arr:46 ser:6) (20 37 arr:52 ser:9) |ATM6(64 117 arr:47 ser:7) |ATM7(43 78 arr:45 ser:9) |
+slot[6] ATM1(128 231 arr:44 ser:10) (40 74 arr:54 ser:9) |
+slot[7] 
+slot[8] ATM0(172 310 arr:51 ser:6) |ATM2(178 318 arr:50 ser:8) |
+slot[9] 
+slot[10] ATM8(52 96 arr:48 ser:12) |
+slot[11] ATM3(9 16 arr:51 ser:11) |
+slot[12] 
+---------
+=== atm0 4 atm1 11 atm2 4 atm3 8 atm4 10 atm5 7 atm6 14 atm7 2 atm8 7 
+=== atm0 4 atm1 11 atm2 4 atm3 8 atm4 10 atm5 7 atm6 14 atm7 13 atm8 7 
+====exit:56 arr:45 serv:9
+ sum wait time:93
+181 PCheckingAccount is done
+current_slot:56 index:4
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] ATM4(21 39 arr:46 ser:6) (20 37 arr:52 ser:9) |ATM6(64 117 arr:47 ser:7) (60 110 arr:55 ser:12) |ATM7(43 78 arr:45 ser:9) (167 301 arr:55 ser:11) |
+slot[6] ATM1(128 231 arr:44 ser:10) (40 74 arr:54 ser:9) |
+slot[7] 
+slot[8] ATM0(172 310 arr:51 ser:6) |ATM2(178 318 arr:50 ser:8) |
+slot[9] 
+slot[10] ATM5(24 44 arr:53 ser:6) |ATM8(52 96 arr:48 ser:12) |
+slot[11] ATM3(9 16 arr:51 ser:11) |
+slot[12] 
+---------
+====exit:57 arr:46 serv:6
+ sum wait time:98
+39 PSavingsAccount is done
+====exit:57 arr:47 serv:7
+ sum wait time:101
+117 BHighVolumeCheckingAccount is done
+====exit:57 arr:45 serv:9
+ sum wait time:104
+78 PSavingsAccount is done
+current_slot:57 index:5
+---------
+slot[0] 
+slot[1] ATM4(20 37 arr:52 ser:9) |
+slot[2] 
+slot[3] ATM7(167 301 arr:55 ser:11) |
+slot[4] ATM6(60 110 arr:55 ser:12) |
+slot[5] 
+slot[6] ATM1(128 231 arr:44 ser:10) (40 74 arr:54 ser:9) |
+slot[7] 
+slot[8] ATM0(172 310 arr:51 ser:6) |ATM2(178 318 arr:50 ser:8) |
+slot[9] 
+slot[10] ATM5(24 44 arr:53 ser:6) |ATM8(52 96 arr:48 ser:12) |
+slot[11] ATM3(9 16 arr:51 ser:11) |
+slot[12] 
+---------
+=== atm0 13 atm1 9 atm2 2 atm3 6 atm4 8 atm5 5 atm6 12 atm7 11 atm8 5 
+====exit:58 arr:44 serv:10
+ sum wait time:108
+231 PSavingsAccount is done
+current_slot:58 index:6
+---------
+slot[0] 
+slot[1] ATM4(20 37 arr:52 ser:9) |
+slot[2] ATM1(40 74 arr:54 ser:9) |
+slot[3] ATM7(167 301 arr:55 ser:11) |
+slot[4] ATM6(60 110 arr:55 ser:12) |
+slot[5] 
+slot[6] 
+slot[7] 
+slot[8] ATM0(172 310 arr:51 ser:6) (163 295 arr:57 ser:11) |ATM2(178 318 arr:50 ser:8) |
+slot[9] 
+slot[10] ATM5(24 44 arr:53 ser:6) |ATM8(52 96 arr:48 ser:12) |
+slot[11] ATM3(9 16 arr:51 ser:11) |
+slot[12] 
+---------
+current_slot:59 index:7
+---------
+slot[0] 
+slot[1] ATM4(20 37 arr:52 ser:9) |
+slot[2] ATM1(40 74 arr:54 ser:9) |
+slot[3] ATM7(167 301 arr:55 ser:11) |
+slot[4] ATM6(60 110 arr:55 ser:12) |
+slot[5] 
+slot[6] 
+slot[7] 
+slot[8] ATM0(172 310 arr:51 ser:6) (163 295 arr:57 ser:11) |ATM2(178 318 arr:50 ser:8) |
+slot[9] 
+slot[10] ATM5(24 44 arr:53 ser:6) |ATM8(52 96 arr:48 ser:12) |
+slot[11] ATM3(9 16 arr:51 ser:11) |
+slot[12] 
+---------
+====exit:60 arr:51 serv:6
+ sum wait time:111
+310 BSavingAccount is done
+====exit:60 arr:50 serv:8
+ sum wait time:113
+318 BSavingAccount is done
+current_slot:60 index:8
+---------
+slot[0] 
+slot[1] ATM4(20 37 arr:52 ser:9) |
+slot[2] ATM1(40 74 arr:54 ser:9) |
+slot[3] ATM7(167 301 arr:55 ser:11) |
+slot[4] ATM6(60 110 arr:55 ser:12) |
+slot[5] 
+slot[6] ATM0(163 295 arr:57 ser:11) |
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] ATM5(24 44 arr:53 ser:6) |ATM8(52 96 arr:48 ser:12) |
+slot[11] ATM3(9 16 arr:51 ser:11) |
+slot[12] 
+---------
++++++insert ATM2(57 106 arr:60 ser:11) |
+---------
+slot[0] 
+slot[1] ATM4(20 37 arr:52 ser:9) |
+slot[2] ATM1(40 74 arr:54 ser:9) |
+slot[3] ATM7(167 301 arr:55 ser:11) |
+slot[4] ATM6(60 110 arr:55 ser:12) |
+slot[5] 
+slot[6] ATM2(57 106 arr:60 ser:11) |ATM0(163 295 arr:57 ser:11) |
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] ATM5(24 44 arr:53 ser:6) |ATM8(52 96 arr:48 ser:12) |
+slot[11] ATM3(9 16 arr:51 ser:11) |
+slot[12] 
+---------
+=== atm0 10 atm1 6 atm2 11 atm3 3 atm4 5 atm5 2 atm6 9 atm7 8 atm8 2 
+=== atm0 10 atm1 6 atm2 11 atm3 3 atm4 5 atm5 11 atm6 9 atm7 8 atm8 2 
+current_slot:61 index:9
+---------
+slot[0] 
+slot[1] ATM4(20 37 arr:52 ser:9) |
+slot[2] ATM1(40 74 arr:54 ser:9) |
+slot[3] ATM7(167 301 arr:55 ser:11) |
+slot[4] ATM6(60 110 arr:55 ser:12) |
+slot[5] 
+slot[6] ATM2(57 106 arr:60 ser:11) |ATM0(163 295 arr:57 ser:11) |
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] ATM5(24 44 arr:53 ser:6) (177 317 arr:60 ser:9) |ATM8(52 96 arr:48 ser:12) |
+slot[11] ATM3(9 16 arr:51 ser:11) |
+slot[12] 
+---------
+====exit:62 arr:53 serv:6
+ sum wait time:116
+44 BSavingAccount is done
+====exit:62 arr:48 serv:12
+ sum wait time:118
+96 BForeignCurrencyAccount is done
+current_slot:62 index:10
+---------
+slot[0] 
+slot[1] ATM4(20 37 arr:52 ser:9) |
+slot[2] ATM1(40 74 arr:54 ser:9) |
+slot[3] ATM7(167 301 arr:55 ser:11) |
+slot[4] ATM6(60 110 arr:55 ser:12) |
+slot[5] 
+slot[6] ATM5(177 317 arr:60 ser:9) |ATM2(57 106 arr:60 ser:11) |ATM0(163 295 arr:57 ser:11) |
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] 
+slot[11] ATM3(9 16 arr:51 ser:11) |
+slot[12] 
+---------
+====exit:63 arr:51 serv:11
+ sum wait time:119
+16 PCheckingAccount is done
+current_slot:63 index:11
+---------
+slot[0] 
+slot[1] ATM4(20 37 arr:52 ser:9) |
+slot[2] ATM1(40 74 arr:54 ser:9) |
+slot[3] ATM7(167 301 arr:55 ser:11) |
+slot[4] ATM6(60 110 arr:55 ser:12) |
+slot[5] 
+slot[6] ATM5(177 317 arr:60 ser:9) |ATM2(57 106 arr:60 ser:11) |ATM0(163 295 arr:57 ser:11) |
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] 
+---------
++++++insert ATM3(122 220 arr:63 ser:10) |
+---------
+slot[0] 
+slot[1] ATM4(20 37 arr:52 ser:9) |
+slot[2] ATM1(40 74 arr:54 ser:9) |
+slot[3] ATM7(167 301 arr:55 ser:11) |
+slot[4] ATM6(60 110 arr:55 ser:12) |
+slot[5] 
+slot[6] ATM5(177 317 arr:60 ser:9) |ATM2(57 106 arr:60 ser:11) |ATM0(163 295 arr:57 ser:11) |
+slot[7] 
+slot[8] ATM3(122 220 arr:63 ser:10) |
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] 
+---------
+=== atm0 7 atm1 3 atm2 8 atm3 10 atm4 2 atm5 8 atm6 6 atm7 5 atm8 0 
++++++insert ATM8(131 237 arr:63 ser:10) |
+---------
+slot[0] 
+slot[1] ATM4(20 37 arr:52 ser:9) |
+slot[2] ATM1(40 74 arr:54 ser:9) |
+slot[3] ATM7(167 301 arr:55 ser:11) |
+slot[4] ATM6(60 110 arr:55 ser:12) |
+slot[5] 
+slot[6] ATM5(177 317 arr:60 ser:9) |ATM2(57 106 arr:60 ser:11) |ATM0(163 295 arr:57 ser:11) |
+slot[7] 
+slot[8] ATM8(131 237 arr:63 ser:10) |ATM3(122 220 arr:63 ser:10) |
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] 
+---------
+=== atm0 7 atm1 3 atm2 8 atm3 10 atm4 2 atm5 8 atm6 6 atm7 5 atm8 10 
+current_slot:64 index:12
+---------
+slot[0] 
+slot[1] ATM4(20 37 arr:52 ser:9) |
+slot[2] ATM1(40 74 arr:54 ser:9) |
+slot[3] ATM7(167 301 arr:55 ser:11) |
+slot[4] ATM6(60 110 arr:55 ser:12) |
+slot[5] 
+slot[6] ATM5(177 317 arr:60 ser:9) |ATM2(57 106 arr:60 ser:11) |ATM0(163 295 arr:57 ser:11) |
+slot[7] 
+slot[8] ATM8(131 237 arr:63 ser:10) |ATM3(122 220 arr:63 ser:10) |
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] 
+---------
+=== atm0 6 atm1 2 atm2 7 atm3 9 atm4 12 atm5 7 atm6 5 atm7 4 atm8 9 
+=== atm0 6 atm1 11 atm2 7 atm3 9 atm4 12 atm5 7 atm6 5 atm7 4 atm8 9 
+current_slot:65 index:0
+---------
+slot[0] 
+slot[1] ATM4(20 37 arr:52 ser:9) (126 227 arr:64 ser:11) |
+slot[2] ATM1(40 74 arr:54 ser:9) (79 146 arr:64 ser:9) |
+slot[3] ATM7(167 301 arr:55 ser:11) |
+slot[4] ATM6(60 110 arr:55 ser:12) |
+slot[5] 
+slot[6] ATM5(177 317 arr:60 ser:9) |ATM2(57 106 arr:60 ser:11) |ATM0(163 295 arr:57 ser:11) |
+slot[7] 
+slot[8] ATM8(131 237 arr:63 ser:10) |ATM3(122 220 arr:63 ser:10) |
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] 
+---------
+====exit:66 arr:52 serv:9
+ sum wait time:124
+37 PMoneyMarketAccount is done
+current_slot:66 index:1
+---------
+slot[0] 
+slot[1] 
+slot[2] ATM1(40 74 arr:54 ser:9) (79 146 arr:64 ser:9) |
+slot[3] ATM7(167 301 arr:55 ser:11) |
+slot[4] ATM6(60 110 arr:55 ser:12) |
+slot[5] 
+slot[6] ATM5(177 317 arr:60 ser:9) |ATM2(57 106 arr:60 ser:11) |ATM0(163 295 arr:57 ser:11) |
+slot[7] 
+slot[8] ATM8(131 237 arr:63 ser:10) |ATM3(122 220 arr:63 ser:10) |
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] ATM4(126 227 arr:64 ser:11) |
+---------
+=== atm0 4 atm1 9 atm2 5 atm3 7 atm4 10 atm5 5 atm6 3 atm7 10 atm8 7 
+=== atm0 4 atm1 9 atm2 5 atm3 7 atm4 10 atm5 5 atm6 14 atm7 10 atm8 7 
+====exit:67 arr:54 serv:9
+ sum wait time:128
+74 PSavingsAccount is done
+current_slot:67 index:2
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] ATM7(167 301 arr:55 ser:11) (152 275 arr:66 ser:8) |
+slot[4] ATM6(60 110 arr:55 ser:12) (28 53 arr:66 ser:11) |
+slot[5] 
+slot[6] ATM5(177 317 arr:60 ser:9) |ATM2(57 106 arr:60 ser:11) |ATM0(163 295 arr:57 ser:11) |
+slot[7] 
+slot[8] ATM8(131 237 arr:63 ser:10) |ATM3(122 220 arr:63 ser:10) |
+slot[9] 
+slot[10] 
+slot[11] ATM1(79 146 arr:64 ser:9) |
+slot[12] ATM4(126 227 arr:64 ser:11) |
+---------
+=== atm0 10 atm1 8 atm2 4 atm3 6 atm4 9 atm5 4 atm6 13 atm7 9 atm8 6 
+====exit:68 arr:55 serv:11
+ sum wait time:130
+301 BSavingAccount is done
+current_slot:68 index:3
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] ATM6(60 110 arr:55 ser:12) (28 53 arr:66 ser:11) |
+slot[5] 
+slot[6] ATM5(177 317 arr:60 ser:9) |ATM2(57 106 arr:60 ser:11) |ATM0(163 295 arr:57 ser:11) (101 182 arr:67 ser:7) |
+slot[7] 
+slot[8] ATM8(131 237 arr:63 ser:10) |ATM3(122 220 arr:63 ser:10) |
+slot[9] 
+slot[10] 
+slot[11] ATM7(152 275 arr:66 ser:8) |ATM1(79 146 arr:64 ser:9) |
+slot[12] ATM4(126 227 arr:64 ser:11) |
+---------
+=== atm0 9 atm1 7 atm2 10 atm3 5 atm4 8 atm5 3 atm6 12 atm7 8 atm8 5 
+=== atm0 9 atm1 7 atm2 10 atm3 5 atm4 8 atm5 12 atm6 12 atm7 8 atm8 5 
+====exit:69 arr:55 serv:12
+ sum wait time:132
+110 BSavingAccount is done
+current_slot:69 index:4
+---------
+slot[0] 
+slot[1] 
+slot[2] ATM6(28 53 arr:66 ser:11) |
+slot[3] 
+slot[4] 
+slot[5] 
+slot[6] ATM5(177 317 arr:60 ser:9) (75 138 arr:68 ser:9) |ATM2(57 106 arr:60 ser:11) (30 57 arr:68 ser:7) |ATM0(163 295 arr:57 ser:11) (101 182 arr:67 ser:7) |
+slot[7] 
+slot[8] ATM8(131 237 arr:63 ser:10) |ATM3(122 220 arr:63 ser:10) |
+slot[9] 
+slot[10] 
+slot[11] ATM7(152 275 arr:66 ser:8) |ATM1(79 146 arr:64 ser:9) |
+slot[12] ATM4(126 227 arr:64 ser:11) |
+---------
+current_slot:70 index:5
+---------
+slot[0] 
+slot[1] 
+slot[2] ATM6(28 53 arr:66 ser:11) |
+slot[3] 
+slot[4] 
+slot[5] 
+slot[6] ATM5(177 317 arr:60 ser:9) (75 138 arr:68 ser:9) |ATM2(57 106 arr:60 ser:11) (30 57 arr:68 ser:7) |ATM0(163 295 arr:57 ser:11) (101 182 arr:67 ser:7) |
+slot[7] 
+slot[8] ATM8(131 237 arr:63 ser:10) |ATM3(122 220 arr:63 ser:10) |
+slot[9] 
+slot[10] 
+slot[11] ATM7(152 275 arr:66 ser:8) |ATM1(79 146 arr:64 ser:9) |
+slot[12] ATM4(126 227 arr:64 ser:11) |
+---------
+=== atm0 7 atm1 5 atm2 8 atm3 8 atm4 6 atm5 10 atm6 10 atm7 6 atm8 3 
+====exit:71 arr:60 serv:9
+ sum wait time:134
+317 BForeignCurrencyAccount is done
+====exit:71 arr:60 serv:11
+ sum wait time:134
+106 PCheckingAccount is done
+====exit:71 arr:57 serv:11
+ sum wait time:137
+295 PCheckingAccount is done
+current_slot:71 index:6
+---------
+slot[0] ATM0(101 182 arr:67 ser:7) |ATM2(30 57 arr:68 ser:7) |
+slot[1] 
+slot[2] ATM5(75 138 arr:68 ser:9) |ATM6(28 53 arr:66 ser:11) |
+slot[3] 
+slot[4] 
+slot[5] 
+slot[6] 
+slot[7] 
+slot[8] ATM8(131 237 arr:63 ser:10) |ATM3(122 220 arr:63 ser:10) (176 315 arr:70 ser:5) |
+slot[9] 
+slot[10] 
+slot[11] ATM7(152 275 arr:66 ser:8) |ATM1(79 146 arr:64 ser:9) |
+slot[12] ATM4(126 227 arr:64 ser:11) |
+---------
+=== atm0 6 atm1 4 atm2 7 atm3 7 atm4 5 atm5 9 atm6 9 atm7 5 atm8 12 
+current_slot:72 index:7
+---------
+slot[0] ATM0(101 182 arr:67 ser:7) |ATM2(30 57 arr:68 ser:7) |
+slot[1] 
+slot[2] ATM5(75 138 arr:68 ser:9) |ATM6(28 53 arr:66 ser:11) |
+slot[3] 
+slot[4] 
+slot[5] 
+slot[6] 
+slot[7] 
+slot[8] ATM8(131 237 arr:63 ser:10) (123 221 arr:71 ser:10) |ATM3(122 220 arr:63 ser:10) (176 315 arr:70 ser:5) |
+slot[9] 
+slot[10] 
+slot[11] ATM7(152 275 arr:66 ser:8) |ATM1(79 146 arr:64 ser:9) |
+slot[12] ATM4(126 227 arr:64 ser:11) |
+---------
+=== atm0 5 atm1 12 atm2 6 atm3 6 atm4 4 atm5 8 atm6 8 atm7 4 atm8 11 
+=== atm0 5 atm1 12 atm2 6 atm3 6 atm4 12 atm5 8 atm6 8 atm7 4 atm8 11 
+====exit:73 arr:63 serv:10
+ sum wait time:137
+237 PCheckingAccount is done
+====exit:73 arr:63 serv:10
+ sum wait time:137
+220 PMoneyMarketAccount is done
+current_slot:73 index:8
+---------
+slot[0] ATM3(176 315 arr:70 ser:5) |ATM0(101 182 arr:67 ser:7) |ATM2(30 57 arr:68 ser:7) |
+slot[1] 
+slot[2] ATM5(75 138 arr:68 ser:9) |ATM6(28 53 arr:66 ser:11) |
+slot[3] 
+slot[4] 
+slot[5] ATM8(123 221 arr:71 ser:10) |
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] 
+slot[11] ATM7(152 275 arr:66 ser:8) |ATM1(79 146 arr:64 ser:9) (191 343 arr:72 ser:9) |
+slot[12] ATM4(126 227 arr:64 ser:11) (125 226 arr:72 ser:8) |
+---------
+=== atm0 4 atm1 11 atm2 5 atm3 5 atm4 11 atm5 7 atm6 7 atm7 13 atm8 10 
+current_slot:74 index:9
+---------
+slot[0] ATM3(176 315 arr:70 ser:5) |ATM0(101 182 arr:67 ser:7) |ATM2(30 57 arr:68 ser:7) |
+slot[1] 
+slot[2] ATM5(75 138 arr:68 ser:9) |ATM6(28 53 arr:66 ser:11) |
+slot[3] 
+slot[4] 
+slot[5] ATM8(123 221 arr:71 ser:10) |
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] 
+slot[11] ATM7(152 275 arr:66 ser:8) (128 231 arr:73 ser:10) |ATM1(79 146 arr:64 ser:9) (191 343 arr:72 ser:9) |
+slot[12] ATM4(126 227 arr:64 ser:11) (125 226 arr:72 ser:8) |
+---------
+=== atm0 10 atm1 10 atm2 4 atm3 4 atm4 10 atm5 6 atm6 6 atm7 12 atm8 9 
+=== atm0 10 atm1 10 atm2 13 atm3 4 atm4 10 atm5 6 atm6 6 atm7 12 atm8 9 
+current_slot:75 index:10
+---------
+slot[0] ATM3(176 315 arr:70 ser:5) |ATM0(101 182 arr:67 ser:7) (115 207 arr:74 ser:7) |ATM2(30 57 arr:68 ser:7) (43 78 arr:74 ser:9) |
+slot[1] 
+slot[2] ATM5(75 138 arr:68 ser:9) |ATM6(28 53 arr:66 ser:11) |
+slot[3] 
+slot[4] 
+slot[5] ATM8(123 221 arr:71 ser:10) |
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] 
+slot[11] ATM7(152 275 arr:66 ser:8) (128 231 arr:73 ser:10) |ATM1(79 146 arr:64 ser:9) (191 343 arr:72 ser:9) |
+slot[12] ATM4(126 227 arr:64 ser:11) (125 226 arr:72 ser:8) |
+---------
+=== atm0 9 atm1 9 atm2 12 atm3 13 atm4 9 atm5 5 atm6 5 atm7 11 atm8 8 
+=== atm0 9 atm1 9 atm2 12 atm3 13 atm4 9 atm5 17 atm6 5 atm7 11 atm8 8 
+====exit:76 arr:66 serv:8
+ sum wait time:139
+275 BSavingAccount is done
+====exit:76 arr:64 serv:9
+ sum wait time:142
+146 PSavingsAccount is done
+current_slot:76 index:11
+---------
+slot[0] ATM3(176 315 arr:70 ser:5) (150 272 arr:75 ser:10) |ATM0(101 182 arr:67 ser:7) (115 207 arr:74 ser:7) |ATM2(30 57 arr:68 ser:7) (43 78 arr:74 ser:9) |
+slot[1] 
+slot[2] ATM5(75 138 arr:68 ser:9) (26 48 arr:75 ser:12) |ATM6(28 53 arr:66 ser:11) |
+slot[3] 
+slot[4] 
+slot[5] ATM8(123 221 arr:71 ser:10) |
+slot[6] 
+slot[7] ATM1(191 343 arr:72 ser:9) |
+slot[8] ATM7(128 231 arr:73 ser:10) |
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] ATM4(126 227 arr:64 ser:11) (125 226 arr:72 ser:8) |
+---------
+=== atm0 8 atm1 8 atm2 11 atm3 12 atm4 8 atm5 16 atm6 16 atm7 10 atm8 7 
+=== atm0 8 atm1 8 atm2 11 atm3 12 atm4 8 atm5 16 atm6 16 atm7 10 atm8 15 
+====exit:77 arr:64 serv:11
+ sum wait time:144
+227 BSavingAccount is done
+current_slot:77 index:12
+---------
+slot[0] ATM3(176 315 arr:70 ser:5) (150 272 arr:75 ser:10) |ATM0(101 182 arr:67 ser:7) (115 207 arr:74 ser:7) |ATM2(30 57 arr:68 ser:7) (43 78 arr:74 ser:9) |
+slot[1] 
+slot[2] ATM5(75 138 arr:68 ser:9) (26 48 arr:75 ser:12) |ATM6(28 53 arr:66 ser:11) (60 110 arr:76 ser:12) |
+slot[3] 
+slot[4] 
+slot[5] ATM8(123 221 arr:71 ser:10) (59 108 arr:76 ser:8) |
+slot[6] 
+slot[7] ATM4(125 226 arr:72 ser:8) |ATM1(191 343 arr:72 ser:9) |
+slot[8] ATM7(128 231 arr:73 ser:10) |
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] 
+---------
+=== atm0 17 atm1 7 atm2 10 atm3 11 atm4 7 atm5 15 atm6 15 atm7 9 atm8 14 
+====exit:78 arr:70 serv:5
+ sum wait time:147
+315 BSavingAccount is done
+====exit:78 arr:67 serv:7
+ sum wait time:151
+182 PSavingsAccount is done
+====exit:78 arr:68 serv:7
+ sum wait time:154
+57 BSavingAccount is done
+current_slot:78 index:0
+---------
+slot[0] 
+slot[1] 
+slot[2] ATM5(75 138 arr:68 ser:9) (26 48 arr:75 ser:12) |ATM6(28 53 arr:66 ser:11) (60 110 arr:76 ser:12) |
+slot[3] 
+slot[4] 
+slot[5] ATM8(123 221 arr:71 ser:10) (59 108 arr:76 ser:8) |
+slot[6] 
+slot[7] ATM0(115 207 arr:74 ser:7) (133 241 arr:77 ser:10) |ATM4(125 226 arr:72 ser:8) |ATM1(191 343 arr:72 ser:9) |
+slot[8] ATM7(128 231 arr:73 ser:10) |
+slot[9] ATM2(43 78 arr:74 ser:9) |
+slot[10] ATM3(150 272 arr:75 ser:10) |
+slot[11] 
+slot[12] 
+---------
+current_slot:79 index:1
+---------
+slot[0] 
+slot[1] 
+slot[2] ATM5(75 138 arr:68 ser:9) (26 48 arr:75 ser:12) |ATM6(28 53 arr:66 ser:11) (60 110 arr:76 ser:12) |
+slot[3] 
+slot[4] 
+slot[5] ATM8(123 221 arr:71 ser:10) (59 108 arr:76 ser:8) |
+slot[6] 
+slot[7] ATM0(115 207 arr:74 ser:7) (133 241 arr:77 ser:10) |ATM4(125 226 arr:72 ser:8) |ATM1(191 343 arr:72 ser:9) |
+slot[8] ATM7(128 231 arr:73 ser:10) |
+slot[9] ATM2(43 78 arr:74 ser:9) |
+slot[10] ATM3(150 272 arr:75 ser:10) |
+slot[11] 
+slot[12] 
+---------
+=== atm0 15 atm1 11 atm2 8 atm3 9 atm4 5 atm5 13 atm6 13 atm7 7 atm8 12 
+=== atm0 15 atm1 11 atm2 8 atm3 9 atm4 11 atm5 13 atm6 13 atm7 7 atm8 12 
+====exit:80 arr:68 serv:9
+ sum wait time:157
+138 PCertificatesfDeposits is done
+====exit:80 arr:66 serv:11
+ sum wait time:160
+53 BHighVolumeCheckingAccount is done
+current_slot:80 index:2
+---------
+slot[0] 
+slot[1] ATM6(60 110 arr:76 ser:12) |ATM5(26 48 arr:75 ser:12) |
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] ATM8(123 221 arr:71 ser:10) (59 108 arr:76 ser:8) |
+slot[6] 
+slot[7] ATM0(115 207 arr:74 ser:7) (133 241 arr:77 ser:10) |ATM4(125 226 arr:72 ser:8) (111 200 arr:79 ser:6) |ATM1(191 343 arr:72 ser:9) (50 92 arr:79 ser:6) |
+slot[8] ATM7(128 231 arr:73 ser:10) |
+slot[9] ATM2(43 78 arr:74 ser:9) |
+slot[10] ATM3(150 272 arr:75 ser:10) |
+slot[11] 
+slot[12] 
+---------
+current_slot:81 index:3
+---------
+slot[0] 
+slot[1] ATM6(60 110 arr:76 ser:12) |ATM5(26 48 arr:75 ser:12) |
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] ATM8(123 221 arr:71 ser:10) (59 108 arr:76 ser:8) |
+slot[6] 
+slot[7] ATM0(115 207 arr:74 ser:7) (133 241 arr:77 ser:10) |ATM4(125 226 arr:72 ser:8) (111 200 arr:79 ser:6) |ATM1(191 343 arr:72 ser:9) (50 92 arr:79 ser:6) |
+slot[8] ATM7(128 231 arr:73 ser:10) |
+slot[9] ATM2(43 78 arr:74 ser:9) |
+slot[10] ATM3(150 272 arr:75 ser:10) |
+slot[11] 
+slot[12] 
+---------
+=== atm0 13 atm1 9 atm2 6 atm3 7 atm4 9 atm5 11 atm6 11 atm7 14 atm8 10 
+current_slot:82 index:4
+---------
+slot[0] 
+slot[1] ATM6(60 110 arr:76 ser:12) |ATM5(26 48 arr:75 ser:12) |
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] ATM8(123 221 arr:71 ser:10) (59 108 arr:76 ser:8) |
+slot[6] 
+slot[7] ATM0(115 207 arr:74 ser:7) (133 241 arr:77 ser:10) |ATM4(125 226 arr:72 ser:8) (111 200 arr:79 ser:6) |ATM1(191 343 arr:72 ser:9) (50 92 arr:79 ser:6) |
+slot[8] ATM7(128 231 arr:73 ser:10) (40 74 arr:81 ser:9) |
+slot[9] ATM2(43 78 arr:74 ser:9) |
+slot[10] ATM3(150 272 arr:75 ser:10) |
+slot[11] 
+slot[12] 
+---------
+=== atm0 12 atm1 8 atm2 12 atm3 6 atm4 8 atm5 10 atm6 10 atm7 13 atm8 9 
+=== atm0 12 atm1 8 atm2 12 atm3 11 atm4 8 atm5 10 atm6 10 atm7 13 atm8 9 
+====exit:83 arr:71 serv:10
+ sum wait time:162
+221 BSavingAccount is done
+current_slot:83 index:5
+---------
+slot[0] ATM8(59 108 arr:76 ser:8) |
+slot[1] ATM6(60 110 arr:76 ser:12) |ATM5(26 48 arr:75 ser:12) |
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] 
+slot[6] 
+slot[7] ATM0(115 207 arr:74 ser:7) (133 241 arr:77 ser:10) |ATM4(125 226 arr:72 ser:8) (111 200 arr:79 ser:6) |ATM1(191 343 arr:72 ser:9) (50 92 arr:79 ser:6) |
+slot[8] ATM7(128 231 arr:73 ser:10) (40 74 arr:81 ser:9) |
+slot[9] ATM2(43 78 arr:74 ser:9) (92 167 arr:82 ser:7) |
+slot[10] ATM3(150 272 arr:75 ser:10) (46 85 arr:82 ser:5) |
+slot[11] 
+slot[12] 
+---------
+=== atm0 11 atm1 12 atm2 11 atm3 10 atm4 7 atm5 9 atm6 9 atm7 12 atm8 8 
+=== atm0 11 atm1 12 atm2 11 atm3 10 atm4 12 atm5 9 atm6 9 atm7 12 atm8 8 
+current_slot:84 index:6
+---------
+slot[0] ATM8(59 108 arr:76 ser:8) |
+slot[1] ATM6(60 110 arr:76 ser:12) |ATM5(26 48 arr:75 ser:12) |
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] 
+slot[6] 
+slot[7] ATM0(115 207 arr:74 ser:7) (133 241 arr:77 ser:10) |ATM4(125 226 arr:72 ser:8) (111 200 arr:79 ser:6) (175 314 arr:83 ser:5) |ATM1(191 343 arr:72 ser:9) (50 92 arr:79 ser:6) (71 130 arr:83 ser:5) |
+slot[8] ATM7(128 231 arr:73 ser:10) (40 74 arr:81 ser:9) |
+slot[9] ATM2(43 78 arr:74 ser:9) (92 167 arr:82 ser:7) |
+slot[10] ATM3(150 272 arr:75 ser:10) (46 85 arr:82 ser:5) |
+slot[11] 
+slot[12] 
+---------
+====exit:85 arr:74 serv:7
+ sum wait time:166
+207 PSavingsAccount is done
+====exit:85 arr:72 serv:8
+ sum wait time:171
+226 BSavingAccount is done
+====exit:85 arr:72 serv:9
+ sum wait time:175
+343 BSavingAccount is done
+current_slot:85 index:7
+---------
+slot[0] ATM1(50 92 arr:79 ser:6) (71 130 arr:83 ser:5) |ATM4(111 200 arr:79 ser:6) (175 314 arr:83 ser:5) |ATM8(59 108 arr:76 ser:8) |
+slot[1] ATM6(60 110 arr:76 ser:12) |ATM5(26 48 arr:75 ser:12) |
+slot[2] 
+slot[3] 
+slot[4] ATM0(133 241 arr:77 ser:10) |
+slot[5] 
+slot[6] 
+slot[7] 
+slot[8] ATM7(128 231 arr:73 ser:10) (40 74 arr:81 ser:9) |
+slot[9] ATM2(43 78 arr:74 ser:9) (92 167 arr:82 ser:7) |
+slot[10] ATM3(150 272 arr:75 ser:10) (46 85 arr:82 ser:5) |
+slot[11] 
+slot[12] 
+---------
+=== atm0 9 atm1 10 atm2 9 atm3 8 atm4 10 atm5 7 atm6 7 atm7 10 atm8 18 
+=== atm0 9 atm1 10 atm2 9 atm3 8 atm4 10 atm5 18 atm6 7 atm7 10 atm8 18 
+====exit:86 arr:73 serv:10
+ sum wait time:178
+231 PSavingsAccount is done
+current_slot:86 index:8
+---------
+slot[0] ATM1(50 92 arr:79 ser:6) (71 130 arr:83 ser:5) |ATM4(111 200 arr:79 ser:6) (175 314 arr:83 ser:5) |ATM8(59 108 arr:76 ser:8) (81 149 arr:85 ser:12) |
+slot[1] ATM6(60 110 arr:76 ser:12) |ATM5(26 48 arr:75 ser:12) (180 321 arr:85 ser:11) |
+slot[2] 
+slot[3] 
+slot[4] ATM7(40 74 arr:81 ser:9) |ATM0(133 241 arr:77 ser:10) |
+slot[5] 
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] ATM2(43 78 arr:74 ser:9) (92 167 arr:82 ser:7) |
+slot[10] ATM3(150 272 arr:75 ser:10) (46 85 arr:82 ser:5) |
+slot[11] 
+slot[12] 
+---------
+=== atm0 8 atm1 9 atm2 8 atm3 7 atm4 9 atm5 17 atm6 14 atm7 9 atm8 17 
+=== atm0 8 atm1 9 atm2 8 atm3 16 atm4 9 atm5 17 atm6 14 atm7 9 atm8 17 
+====exit:87 arr:74 serv:9
+ sum wait time:182
+78 PSavingsAccount is done
+current_slot:87 index:9
+---------
+slot[0] ATM1(50 92 arr:79 ser:6) (71 130 arr:83 ser:5) |ATM4(111 200 arr:79 ser:6) (175 314 arr:83 ser:5) |ATM8(59 108 arr:76 ser:8) (81 149 arr:85 ser:12) |
+slot[1] ATM6(60 110 arr:76 ser:12) (112 201 arr:86 ser:8) |ATM5(26 48 arr:75 ser:12) (180 321 arr:85 ser:11) |
+slot[2] 
+slot[3] ATM2(92 167 arr:82 ser:7) |
+slot[4] ATM7(40 74 arr:81 ser:9) |ATM0(133 241 arr:77 ser:10) |
+slot[5] 
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] ATM3(150 272 arr:75 ser:10) (46 85 arr:82 ser:5) (80 147 arr:86 ser:9) |
+slot[11] 
+slot[12] 
+---------
+=== atm0 13 atm1 8 atm2 7 atm3 15 atm4 8 atm5 16 atm6 13 atm7 8 atm8 16 
+=== atm0 13 atm1 8 atm2 14 atm3 15 atm4 8 atm5 16 atm6 13 atm7 8 atm8 16 
+====exit:88 arr:75 serv:10
+ sum wait time:185
+272 PCheckingAccount is done
+current_slot:88 index:10
+---------
+slot[0] ATM1(50 92 arr:79 ser:6) (71 130 arr:83 ser:5) |ATM4(111 200 arr:79 ser:6) (175 314 arr:83 ser:5) |ATM8(59 108 arr:76 ser:8) (81 149 arr:85 ser:12) |
+slot[1] ATM6(60 110 arr:76 ser:12) (112 201 arr:86 ser:8) |ATM5(26 48 arr:75 ser:12) (180 321 arr:85 ser:11) |
+slot[2] ATM3(46 85 arr:82 ser:5) (80 147 arr:86 ser:9) |
+slot[3] ATM2(92 167 arr:82 ser:7) (106 191 arr:87 ser:7) |
+slot[4] ATM7(40 74 arr:81 ser:9) |ATM0(133 241 arr:77 ser:10) (109 195 arr:87 ser:6) |
+slot[5] 
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] 
+---------
+=== atm0 12 atm1 19 atm2 13 atm3 14 atm4 7 atm5 15 atm6 12 atm7 7 atm8 15 
+=== atm0 12 atm1 19 atm2 13 atm3 14 atm4 16 atm5 15 atm6 12 atm7 7 atm8 15 
+current_slot:89 index:11
+---------
+slot[0] ATM1(50 92 arr:79 ser:6) (71 130 arr:83 ser:5) (76 139 arr:88 ser:12) |ATM4(111 200 arr:79 ser:6) (175 314 arr:83 ser:5) (17 31 arr:88 ser:9) |ATM8(59 108 arr:76 ser:8) (81 149 arr:85 ser:12) |
+slot[1] ATM6(60 110 arr:76 ser:12) (112 201 arr:86 ser:8) |ATM5(26 48 arr:75 ser:12) (180 321 arr:85 ser:11) |
+slot[2] ATM3(46 85 arr:82 ser:5) (80 147 arr:86 ser:9) |
+slot[3] ATM2(92 167 arr:82 ser:7) (106 191 arr:87 ser:7) |
+slot[4] ATM7(40 74 arr:81 ser:9) |ATM0(133 241 arr:77 ser:10) (109 195 arr:87 ser:6) |
+slot[5] 
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] 
+---------
+=== atm0 11 atm1 18 atm2 12 atm3 13 atm4 15 atm5 14 atm6 11 atm7 11 atm8 14 
+=== atm0 17 atm1 18 atm2 12 atm3 13 atm4 15 atm5 14 atm6 11 atm7 11 atm8 14 
+current_slot:90 index:12
+---------
+slot[0] ATM1(50 92 arr:79 ser:6) (71 130 arr:83 ser:5) (76 139 arr:88 ser:12) |ATM4(111 200 arr:79 ser:6) (175 314 arr:83 ser:5) (17 31 arr:88 ser:9) |ATM8(59 108 arr:76 ser:8) (81 149 arr:85 ser:12) |
+slot[1] ATM6(60 110 arr:76 ser:12) (112 201 arr:86 ser:8) |ATM5(26 48 arr:75 ser:12) (180 321 arr:85 ser:11) |
+slot[2] ATM3(46 85 arr:82 ser:5) (80 147 arr:86 ser:9) |
+slot[3] ATM2(92 167 arr:82 ser:7) (106 191 arr:87 ser:7) |
+slot[4] ATM7(40 74 arr:81 ser:9) (117 211 arr:89 ser:5) |ATM0(133 241 arr:77 ser:10) (109 195 arr:87 ser:6) (174 313 arr:89 ser:6) |
+slot[5] 
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] 
+---------
+====exit:91 arr:79 serv:6
+ sum wait time:191
+92 PCertificatesfDeposits is done
+====exit:91 arr:79 serv:6
+ sum wait time:197
+200 BHighVolumeCheckingAccount is done
+====exit:91 arr:76 serv:8
+ sum wait time:204
+108 PCheckingAccount is done
+current_slot:91 index:0
+---------
+slot[0] 
+slot[1] ATM6(60 110 arr:76 ser:12) (112 201 arr:86 ser:8) |ATM5(26 48 arr:75 ser:12) (180 321 arr:85 ser:11) |
+slot[2] ATM3(46 85 arr:82 ser:5) (80 147 arr:86 ser:9) |
+slot[3] ATM2(92 167 arr:82 ser:7) (106 191 arr:87 ser:7) |
+slot[4] ATM7(40 74 arr:81 ser:9) (117 211 arr:89 ser:5) |ATM0(133 241 arr:77 ser:10) (109 195 arr:87 ser:6) (174 313 arr:89 ser:6) |
+slot[5] ATM4(175 314 arr:83 ser:5) (17 31 arr:88 ser:9) |ATM1(71 130 arr:83 ser:5) (76 139 arr:88 ser:12) |
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] 
+slot[11] 
+slot[12] ATM8(81 149 arr:85 ser:12) |
+---------
+====exit:92 arr:76 serv:12
+ sum wait time:208
+110 BSavingAccount is done
+====exit:92 arr:75 serv:12
+ sum wait time:213
+48 BSavingAccount is done
+current_slot:92 index:1
+---------
+slot[0] 
+slot[1] 
+slot[2] ATM3(46 85 arr:82 ser:5) (80 147 arr:86 ser:9) |
+slot[3] ATM2(92 167 arr:82 ser:7) (106 191 arr:87 ser:7) |
+slot[4] ATM7(40 74 arr:81 ser:9) (117 211 arr:89 ser:5) |ATM0(133 241 arr:77 ser:10) (109 195 arr:87 ser:6) (174 313 arr:89 ser:6) |
+slot[5] ATM4(175 314 arr:83 ser:5) (17 31 arr:88 ser:9) |ATM1(71 130 arr:83 ser:5) (76 139 arr:88 ser:12) |
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] ATM6(112 201 arr:86 ser:8) |
+slot[10] 
+slot[11] 
+slot[12] ATM5(180 321 arr:85 ser:11) |ATM8(81 149 arr:85 ser:12) |
+---------
+====exit:93 arr:82 serv:5
+ sum wait time:219
+85 PCheckingAccount is done
+current_slot:93 index:2
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] ATM2(92 167 arr:82 ser:7) (106 191 arr:87 ser:7) |
+slot[4] ATM7(40 74 arr:81 ser:9) (117 211 arr:89 ser:5) |ATM0(133 241 arr:77 ser:10) (109 195 arr:87 ser:6) (174 313 arr:89 ser:6) |
+slot[5] ATM4(175 314 arr:83 ser:5) (17 31 arr:88 ser:9) |ATM1(71 130 arr:83 ser:5) (76 139 arr:88 ser:12) |
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] ATM6(112 201 arr:86 ser:8) |
+slot[10] 
+slot[11] ATM3(80 147 arr:86 ser:9) |
+slot[12] ATM5(180 321 arr:85 ser:11) |ATM8(81 149 arr:85 ser:12) |
+---------
+====exit:94 arr:82 serv:7
+ sum wait time:224
+167 PCheckingAccount is done
+current_slot:94 index:3
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] ATM7(40 74 arr:81 ser:9) (117 211 arr:89 ser:5) |ATM0(133 241 arr:77 ser:10) (109 195 arr:87 ser:6) (174 313 arr:89 ser:6) |
+slot[5] ATM4(175 314 arr:83 ser:5) (17 31 arr:88 ser:9) |ATM1(71 130 arr:83 ser:5) (76 139 arr:88 ser:12) |
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] ATM6(112 201 arr:86 ser:8) |
+slot[10] ATM2(106 191 arr:87 ser:7) |
+slot[11] ATM3(80 147 arr:86 ser:9) |
+slot[12] ATM5(180 321 arr:85 ser:11) |ATM8(81 149 arr:85 ser:12) |
+---------
+=== atm0 12 atm1 13 atm2 7 atm3 8 atm4 10 atm5 9 atm6 13 atm7 6 atm8 9 
+====exit:95 arr:81 serv:9
+ sum wait time:229
+74 PSavingsAccount is done
+====exit:95 arr:77 serv:10
+ sum wait time:237
+241 PCheckingAccount is done
+current_slot:95 index:4
+---------
+slot[0] 
+slot[1] 
+slot[2] 
+slot[3] 
+slot[4] 
+slot[5] ATM4(175 314 arr:83 ser:5) (17 31 arr:88 ser:9) |ATM1(71 130 arr:83 ser:5) (76 139 arr:88 ser:12) |
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] ATM7(117 211 arr:89 ser:5) |ATM6(112 201 arr:86 ser:8) (74 135 arr:94 ser:7) |
+slot[10] ATM0(109 195 arr:87 ser:6) (174 313 arr:89 ser:6) |ATM2(106 191 arr:87 ser:7) |
+slot[11] ATM3(80 147 arr:86 ser:9) |
+slot[12] ATM5(180 321 arr:85 ser:11) |ATM8(81 149 arr:85 ser:12) |
+---------
+=== atm0 11 atm1 12 atm2 6 atm3 7 atm4 9 atm5 8 atm6 12 atm7 10 atm8 8 
+====exit:96 arr:83 serv:5
+ sum wait time:245
+314 BForeignCurrencyAccount is done
+====exit:96 arr:83 serv:5
+ sum wait time:253
+130 PCertificatesfDeposits is done
+current_slot:96 index:5
+---------
+slot[0] 
+slot[1] ATM4(17 31 arr:88 ser:9) |
+slot[2] 
+slot[3] 
+slot[4] ATM1(76 139 arr:88 ser:12) |
+slot[5] 
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] ATM7(117 211 arr:89 ser:5) (54 100 arr:95 ser:5) |ATM6(112 201 arr:86 ser:8) (74 135 arr:94 ser:7) |
+slot[10] ATM0(109 195 arr:87 ser:6) (174 313 arr:89 ser:6) |ATM2(106 191 arr:87 ser:7) |
+slot[11] ATM3(80 147 arr:86 ser:9) |
+slot[12] ATM5(180 321 arr:85 ser:11) |ATM8(81 149 arr:85 ser:12) |
+---------
+=== atm0 10 atm1 11 atm2 10 atm3 6 atm4 8 atm5 7 atm6 11 atm7 9 atm8 7 
+current_slot:97 index:6
+---------
+slot[0] 
+slot[1] ATM4(17 31 arr:88 ser:9) |
+slot[2] 
+slot[3] 
+slot[4] ATM1(76 139 arr:88 ser:12) |
+slot[5] 
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] ATM7(117 211 arr:89 ser:5) (54 100 arr:95 ser:5) |ATM6(112 201 arr:86 ser:8) (74 135 arr:94 ser:7) |
+slot[10] ATM0(109 195 arr:87 ser:6) (174 313 arr:89 ser:6) |ATM2(106 191 arr:87 ser:7) (97 176 arr:96 ser:5) |
+slot[11] ATM3(80 147 arr:86 ser:9) |
+slot[12] ATM5(180 321 arr:85 ser:11) |ATM8(81 149 arr:85 ser:12) |
+---------
+=== atm0 9 atm1 10 atm2 9 atm3 16 atm4 7 atm5 6 atm6 10 atm7 8 atm8 6 
+current_slot:98 index:7
+---------
+slot[0] 
+slot[1] ATM4(17 31 arr:88 ser:9) |
+slot[2] 
+slot[3] 
+slot[4] ATM1(76 139 arr:88 ser:12) |
+slot[5] 
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] ATM7(117 211 arr:89 ser:5) (54 100 arr:95 ser:5) |ATM6(112 201 arr:86 ser:8) (74 135 arr:94 ser:7) |
+slot[10] ATM0(109 195 arr:87 ser:6) (174 313 arr:89 ser:6) |ATM2(106 191 arr:87 ser:7) (97 176 arr:96 ser:5) |
+slot[11] ATM3(80 147 arr:86 ser:9) (187 334 arr:97 ser:11) |
+slot[12] ATM5(180 321 arr:85 ser:11) |ATM8(81 149 arr:85 ser:12) |
+---------
+=== atm0 8 atm1 9 atm2 8 atm3 15 atm4 6 atm5 16 atm6 9 atm7 7 atm8 5 
+=== atm0 8 atm1 9 atm2 8 atm3 15 atm4 6 atm5 16 atm6 9 atm7 7 atm8 12 
+current_slot:99 index:8
+---------
+slot[0] 
+slot[1] ATM4(17 31 arr:88 ser:9) |
+slot[2] 
+slot[3] 
+slot[4] ATM1(76 139 arr:88 ser:12) |
+slot[5] 
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] ATM7(117 211 arr:89 ser:5) (54 100 arr:95 ser:5) |ATM6(112 201 arr:86 ser:8) (74 135 arr:94 ser:7) |
+slot[10] ATM0(109 195 arr:87 ser:6) (174 313 arr:89 ser:6) |ATM2(106 191 arr:87 ser:7) (97 176 arr:96 ser:5) |
+slot[11] ATM3(80 147 arr:86 ser:9) (187 334 arr:97 ser:11) |
+slot[12] ATM5(180 321 arr:85 ser:11) (163 295 arr:98 ser:11) |ATM8(81 149 arr:85 ser:12) (44 80 arr:98 ser:7) |
+---------
+=== atm0 7 atm1 8 atm2 7 atm3 14 atm4 10 atm5 15 atm6 8 atm7 6 atm8 11 
+====exit:100 arr:89 serv:5
+ sum wait time:259
+211 PCheckingAccount is done
+====exit:100 arr:86 serv:8
+ sum wait time:265
+201 PSavingsAccount is done
+current_slot:100 index:9
+---------
+slot[0] 
+slot[1] ATM7(54 100 arr:95 ser:5) |ATM4(17 31 arr:88 ser:9) (141 253 arr:99 ser:5) |
+slot[2] 
+slot[3] ATM6(74 135 arr:94 ser:7) |
+slot[4] ATM1(76 139 arr:88 ser:12) |
+slot[5] 
+slot[6] 
+slot[7] 
+slot[8] 
+slot[9] 
+slot[10] ATM0(109 195 arr:87 ser:6) (174 313 arr:89 ser:6) |ATM2(106 191 arr:87 ser:7) (97 176 arr:96 ser:5) |
+slot[11] ATM3(80 147 arr:86 ser:9) (187 334 arr:97 ser:11) |
+slot[12] ATM5(180 321 arr:85 ser:11) (163 295 arr:98 ser:11) |ATM8(81 149 arr:85 ser:12) (44 80 arr:98 ser:7) |
+---------
+-------- report ---------------
+Duration of simulation: 100
+Number of ATM machines: 9
+Total no. of customers serviced: 72
+Total no. of customers serviced categorized by type of accounts: 
+    BForeignCurrencyAccount: 4
+    BHighVolumeCheckingAccount: 5
+    BSavingAccount: 34
+    PCertificatesfDeposits: 8
+    PCheckingAccount: 19
+    PMoneyMarketAccount: 6
+    PSavingsAccount: 25
+Average service time for each customer: 11.7778
+Average waiting time for each customer: 3.68056
+Total number of transactions: 101
+WITHDRAWAL: 23
+DEPOSIT: 27
+TRANSFER: 24
+BALANCE: 27
+Total amount of money deposited: 24600
+Total amount of money withdrawn: 21800
+Number of refill_cash events generated: 0
+
+Please press Q to exit: 
